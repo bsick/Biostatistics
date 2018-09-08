@@ -1,3 +1,4 @@
 ## This is a test for github pages
 
-test page : https://emurina.github.io/test/
+test page : https://bsick.github.io/Biostat18
+
