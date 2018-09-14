@@ -1,7 +1,7 @@
 ---
 layout: default
 mathjax: true
-title: Test for github Pages
+title: Lectures Biostatistics
 ---
 <h3>test</h3>
 
