@@ -6,7 +6,7 @@ title: Lectures Biostatistics
 <h3>test</h3>
 
 <ul>
-	<li/> We aim for talks on methods, papers, conference experiences and ideas you want to discuss
+	<li/> blablabla
 	<li/>The presenter does not need to be an expert! 
 	<li/>Discussions and all kind of questions (also stupid ones) are welcome!!
 	<li/>No slides are required - the presenter can freely decide on the format (blackboard, talk, slides) and language (english or german).
