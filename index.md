@@ -30,7 +30,7 @@ Otherwise the rendering is broken
     <tr>
     <td style="text-align: left;" valign="top">Tuesday 18.9.2018</td>  
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day1.pdf"> slides_01_plan</a>
+        <b> <a href="https://github.com/bsocl/Biostatistics-Fall-2018/blob/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
     </td>
     <!--  Exercises and Homework -->
     <td style="text-align: left;" valign="top">
