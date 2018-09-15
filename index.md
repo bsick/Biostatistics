@@ -48,7 +48,7 @@ Otherwise the rendering is broken
     <td style="text-align: left;" valign="top">
     	<ul>
     		<li>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literatures/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_ch1</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_ch1</a> | 
         </li>
         <!-- 
       </ul>
