@@ -36,12 +36,8 @@ Otherwise the rendering is broken
     <td style="text-align: left;" valign="top">
     	<ul>
     		<li>
-            <a href="exercises/01_tf_matrix_mult"> ex_01</a> | 
-            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> ex_01_solution</a> 
-        </li>
-    		<li>
-            <a href="exercises/02_linreg_with_slider"> in_class_ex_01</a> |
-            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> in_class_ex_01_solution</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_01</a> | 
+            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_sol.pdf'> ex_01_solution</a> 
         </li>
         <!-- 
       </ul>
@@ -53,18 +49,19 @@ Otherwise the rendering is broken
      <tr>
     <td style="text-align: left;" valign="top">Tuesday 25.9.2018</td>  
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day1.pdf"> slides_02_plan</a>
+        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> slides_02_plan</a>
     </td>
     <!--  Exercises and Homework -->
     <td style="text-align: left;" valign="top">
     	<ul>
     		<li>
-            <a href="exercises/01_tf_matrix_mult"> ex_01</a> | 
-            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> ex_02_solution</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_02</a> | 
+            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_sol.pdf'> ex_02_solution</a> 
         </li>
     		<li>
-            <a href="exercises/02_linreg_with_slider"> in_class_ex_01</a> |
-            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> in_class_ex_02_solution</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_02</a> | 
+            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_sol.pdf'> ex_02_solution</a> 
+in_class_ex_01_solution</a> 
         </li>
         <!-- 
       </ul>
