@@ -329,7 +329,7 @@ Otherwise the rendering is broken
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch7_logistic_regression_glm.pdf> HSAUR3_ch7_logistic_regression_glm.pdf</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch7_logistic_regression_glm.pdf"> HSAUR3_chapter07</a> 
         <!-- 
       </ul>
     </td>   
@@ -337,4 +337,84 @@ Otherwise the rendering is broken
     <!--  ------------------------------------- -->
     <!--  Woche 12 -->
     <!--  ------------------------------------- -->
-
+                                                                  <tr>
+     <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      12
+     </td>  
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 04.12.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch9_tree_modes.pdf"> HSAUR3_chapter09</a> 
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 13 -->
+    <!--  ------------------------------------- -->
+                                                                        <tr>
+     <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      13
+     </td>  
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 11.12.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            see last week
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 14 -->
+    <!--  ------------------------------------- -->
+                                                                        <tr>
+     <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      14
+     </td>  
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 18.12.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch11_survival_analysis.pdf"> HSAUR3_chapter11</a> 
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
