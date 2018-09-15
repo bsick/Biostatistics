@@ -36,7 +36,6 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
         <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
-    </td>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
     	<ul>
@@ -45,7 +44,7 @@ Otherwise the rendering is broken
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_ch1</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_ch1</a> 
         <!-- 
       </ul>
     </td>   
@@ -70,7 +69,7 @@ Otherwise the rendering is broken
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_ch2</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_ch2</a>  
         <!-- 
       </ul>
     </td>   
@@ -95,7 +94,7 @@ Otherwise the rendering is broken
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/IPSUR-vignette-distributions-week3.pdf"> IPSUR-distributions</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/IPSUR-vignette-distributions-week3.pdf"> IPSUR-distributions</a> 
         <!-- 
       </ul>
     </td>   
