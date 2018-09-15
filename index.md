@@ -10,7 +10,7 @@ The course deals with simple quantitative and graphical as well as more complex 
 
 For doing the hands-on part on your own computer you should install R and RStudio (see first exercise).
 
-The currently planned topics are summarized in the <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> semester plan</a>
+The currently planned topics are summarized in the <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/formalia_public/semesterplan15092018.pdf"> semester plan</a>
 
 ## Material for Lectures and Exercises  
 
