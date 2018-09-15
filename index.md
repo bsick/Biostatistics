@@ -235,6 +235,7 @@ Otherwise the rendering is broken
             <a href=""> XX</a> 
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
+          	<ul>
     see last week
         <!-- 
       </ul>
@@ -258,12 +259,37 @@ Otherwise the rendering is broken
             <a href=""> XX</a> 
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    see last week
+          	<ul>
+        see last week
         <!-- 
       </ul>
     </td>   
   </tr>
     <!--  ------------------------------------- -->
     <!--  Woche 11 -->
+    <!--  ------------------------------------- -->
+                                                          <tr>
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 27.11.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch7_logistic_regression_glm.pdf> HSAUR3_ch7_logistic_regression_glm.pdf</a> 
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 12 -->
     <!--  ------------------------------------- -->
 
