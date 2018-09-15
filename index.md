@@ -40,16 +40,12 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-    		<li>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_01</a> | 
             <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_sol.pdf'> ex_01_solution</a> 
-        </li>
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-    		<li>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_ch1</a> | 
-        </li>
         <!-- 
       </ul>
     </td>   
@@ -57,23 +53,24 @@ Otherwise the rendering is broken
     <!--  ------------------------------------- -->
     <!--  Woche 2 -->
     <!--  ------------------------------------- -->
-     <tr>
-    <td style="text-align: left;" valign="top">Tuesday 25.9.2018</td>  
+      <tr>
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 18.9.2018
+     </td>  
+     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/BS_slides_02_plan.pdf"> slides_02_plan</a>
+        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
     </td>
-    <!--  Exercises and Homework -->
+    <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-    		<li>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise01.pdf"> ex_02</a> | 
-            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise01_sol.pdf'> ex_02_solution</a> 
-        </li>
-    		<li>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_02</a> | 
-            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_sol.pdf'> ex_02_solution</a> 
-in_class_ex_01_solution</a> 
-        </li>
+            <a href=""> ex_01</a> | 
+            <a href=''> ex_01_solution</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_ch2</a> | 
         <!-- 
       </ul>
     </td>   
