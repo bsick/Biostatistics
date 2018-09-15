@@ -60,7 +60,6 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
         <b> <a href=""> XX</a>
-    </td>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
     	<ul>
@@ -85,7 +84,6 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
         <b> <a href=""> XX</a>
-    </td>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
     	<ul>
