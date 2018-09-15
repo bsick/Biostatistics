@@ -60,7 +60,7 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides"> XX</a>
+        <b> <a href=""> XX</a>
     </td>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -77,4 +77,29 @@ Otherwise the rendering is broken
   </tr>
     <!--  ------------------------------------- -->
     <!--  Woche 3 -->
+    <!--  ------------------------------------- -->
+     <tr>
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 02.10.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    </td>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/IPSUR-vignette-distributions-week3.pdf"> IPSUR-distributions</a> | 
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 4 -->
     <!--  ------------------------------------- -->
