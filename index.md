@@ -20,6 +20,7 @@ Otherwise the rendering is broken
 -->
 <table  class="zebra" width="width:100%">
   <tr>
+      <th style="text-align: left;" width="%5">Week</th>
       <th style="text-align: left;" width="%5">Date</th>
       <th style="text-align: left;" width="%55">Lectures</th>
       <th style="text-align: left;" width="%20">Exercises</th>
@@ -29,7 +30,11 @@ Otherwise the rendering is broken
     <!--  week 1 -->
     <!--  ------------------------------------- -->
     <tr>
-    <!-- Date -->
+    <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      01
+     </td>  
+         <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 18.9.2018
      </td>  
@@ -53,6 +58,10 @@ Otherwise the rendering is broken
     <!--  Woche 2 -->
     <!--  ------------------------------------- -->
       <tr>
+            <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      02
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 18.9.2018
@@ -77,6 +86,10 @@ Otherwise the rendering is broken
     <!--  Woche 3 -->
     <!--  ------------------------------------- -->
      <tr>
+      <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      03
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 02.10.2018
@@ -101,6 +114,10 @@ Otherwise the rendering is broken
     <!--  Woche 4 -->
     <!--  ------------------------------------- -->
              <tr>
+      <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      04
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 09.10.2018
@@ -125,6 +142,10 @@ Otherwise the rendering is broken
     <!--  Woche 5 -->
     <!--  ------------------------------------- -->
                    <tr>
+      <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      05
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 16.10.2018
@@ -149,7 +170,11 @@ Otherwise the rendering is broken
     <!--  Woche 6 -->
     <!--  ------------------------------------- -->
                            <tr>
-    <!-- Date -->
+     <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      06
+     </td>  
+     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 23.10.2018
      </td>  
@@ -173,6 +198,10 @@ Otherwise the rendering is broken
     <!--  Woche 7 -->
     <!--  ------------------------------------- -->
                                 <tr>
+     <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      07
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 30.10.2018
@@ -197,6 +226,10 @@ Otherwise the rendering is broken
     <!--  Woche 8 -->
     <!--  ------------------------------------- -->
                                        <tr>
+      <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      08
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 06.11.2018
@@ -221,6 +254,10 @@ Otherwise the rendering is broken
     <!--  Woche 9 -->
     <!--  ------------------------------------- -->
                                                <tr>
+     <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      09
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 13.11.2018
@@ -245,6 +282,10 @@ Otherwise the rendering is broken
     <!--  Woche 10 -->
     <!--  ------------------------------------- -->
                                                      <tr>
+      <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      10
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 20.11.2018
@@ -269,6 +310,10 @@ Otherwise the rendering is broken
     <!--  Woche 11 -->
     <!--  ------------------------------------- -->
                                                           <tr>
+     <!-- week  -->
+    <td style="text-align: left;" valign="top">
+      11
+     </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
       Tuesday 27.11.2018
