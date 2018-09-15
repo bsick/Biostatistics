@@ -40,7 +40,7 @@ Otherwise the rendering is broken
     <td style="text-align: left;" valign="top">
     	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_01</a> | 
-            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_sol.pdf'> ex_01_solution</a> 
+            <a href=''> XX</a> 
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
     	<ul>
@@ -123,5 +123,53 @@ Otherwise the rendering is broken
   </tr>
     <!--  ------------------------------------- -->
     <!--  Woche 5 -->
+    <!--  ------------------------------------- -->
+                   <tr>
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 16.10.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            see last week 
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 6 -->
+    <!--  ------------------------------------- -->
+                           <tr>
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 16.10.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch4_simple_inference.pdf"> HSAUR3_chapter04</a> 
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 7 -->
     <!--  ------------------------------------- -->
 
