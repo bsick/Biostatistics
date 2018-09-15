@@ -188,12 +188,82 @@ Otherwise the rendering is broken
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/statistics.notes.diagnostic.tests.pdf"> HSAUR3_chapter04</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/statistics.notes.diagnostic.tests.pdf"> statistics.notes.diagnostic.tests</a> 
         <!-- 
       </ul>
     </td>   
   </tr>
     <!--  ------------------------------------- -->
     <!--  Woche 8 -->
+    <!--  ------------------------------------- -->
+                                       <tr>
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 06.11.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch6_linear_regression.pdf"> HSAUR3_chapter06</a> 
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 9 -->
+    <!--  ------------------------------------- -->
+                                               <tr>
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 13.11.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    see last week
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 10 -->
+    <!--  ------------------------------------- -->
+                                                     <tr>
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 20.11.2018
+     </td>  
+     <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <b> <a href=""> XX</a>
+    <!--  Exercises  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    see last week
+        <!-- 
+      </ul>
+    </td>   
+  </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 11 -->
     <!--  ------------------------------------- -->
 
