@@ -23,21 +23,32 @@ Otherwise the rendering is broken
       <th style="text-align: left;" width="%5">Date</th>
       <th style="text-align: left;" width="%55">Lectures</th>
       <th style="text-align: left;" width="%20">Exercises</th>
+      <th style="text-align: left;" width="%20">Literature</th>
   </tr>
     <!--  ------------------------------------- -->
     <!--  week 1 -->
     <!--  ------------------------------------- -->
     <tr>
-    <td style="text-align: left;" valign="top">Tuesday 18.9.2018</td>  
+    <!-- Date -->
+    <td style="text-align: left;" valign="top">
+      Tuesday 18.9.2018
+     </td>  
+     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
         <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
     </td>
-    <!--  Exercises and Homework -->
+    <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
     	<ul>
     		<li>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_01</a> | 
             <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_sol.pdf'> ex_01_solution</a> 
+        </li>
+    <!--  Lieterature  -->
+    <td style="text-align: left;" valign="top">
+    	<ul>
+    		<li>
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literatures/Exercise0.pdf"> ex_01</a> | 
         </li>
         <!-- 
       </ul>
@@ -49,14 +60,14 @@ Otherwise the rendering is broken
      <tr>
     <td style="text-align: left;" valign="top">Tuesday 25.9.2018</td>  
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> slides_02_plan</a>
+        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/BS_slides_02_plan.pdf"> slides_02_plan</a>
     </td>
     <!--  Exercises and Homework -->
     <td style="text-align: left;" valign="top">
     	<ul>
     		<li>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_02</a> | 
-            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_sol.pdf'> ex_02_solution</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise01.pdf"> ex_02</a> | 
+            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise01_sol.pdf'> ex_02_solution</a> 
         </li>
     		<li>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_02</a> | 
