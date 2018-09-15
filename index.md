@@ -60,13 +60,13 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
+        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides"> XX</a>
     </td>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
     	<ul>
-            <a href=""> ex_01</a> | 
-            <a href=''> ex_01_solution</a> 
+            <a href=""> XX</a> | 
+            <a href=""> XX</a> 
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
     	<ul>
