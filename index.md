@@ -24,7 +24,7 @@ Otherwise the rendering is broken
   <tr>
       <th style="text-align: left;" width="%5">Week</th>
       <th style="text-align: left;" width="%5">Date</th>
-      <th style="text-align: left;" width="%55">Lectures</th>
+      <th style="text-align: left;" width="%55">Topics and Lectures notes</th>
       <th style="text-align: left;" width="%20">Exercises</th>
       <th style="text-align: left;" width="%20">Literature</th>
   </tr>
