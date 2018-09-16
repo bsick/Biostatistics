@@ -39,7 +39,7 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <b>introduction / basic terms / datatypes / uni-variate graphical displays</b>
+      introduction / basic terms / datatypes / uni-variate graphical displays
         <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
      </td>  
     <!--  Exercises  -->
