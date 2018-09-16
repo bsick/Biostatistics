@@ -9,7 +9,6 @@ For doing the hands-on part on your own computer you should install R and RStudi
 The currently planned topics are summarized in the <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/formalia_public/semesterplan15092018.pdf"> semester plan</a>
 
 ## Material for Lectures and Exercises  
-
 <!--  
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Note on table no empty lines / Bitte keine Leerzeilen 
@@ -27,7 +26,6 @@ Otherwise the rendering is broken
     <!--  ------------------------------------- -->
     <!--  week 1 -->
     <!--  ------------------------------------- -->
-    <tr>
     <!-- week  -->
     <td style="text-align: left;" valign="top">
       01
