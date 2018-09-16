@@ -73,13 +73,11 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_chapter02</a>  
       </td>  
         <!-- 
@@ -104,13 +102,11 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/IPSUR-vignette-distributions-week3.pdf"> IPSUR-distributions</a> 
      </td>  
         <!-- 
@@ -131,16 +127,14 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch4_simple_inference.pdf"> HSAUR3_chapter04</a> 
      </td>  
         <!-- 
@@ -161,17 +155,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             see last week 
      </td>  
         <!-- 
@@ -192,17 +184,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch4_simple_inference.pdf"> HSAUR3_chapter04</a> 
      </td>  
         <!-- 
@@ -223,17 +213,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/statistics.notes.diagnostic.tests.pdf"> statistics.notes.diagnostic.tests</a> 
      </td>  
         <!-- 
@@ -254,17 +242,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch6_linear_regression.pdf"> HSAUR3_chapter06</a> 
      </td>  
         <!-- 
@@ -285,16 +271,14 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-          	<ul>
     see last week
      </td>  
         <!-- 
@@ -315,17 +299,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-          	<ul>
         see last week
      </td>  
         <!-- 
@@ -346,17 +328,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch7_logistic_regression_glm.pdf"> HSAUR3_chapter07</a> 
      </td>  
         <!-- 
@@ -377,17 +357,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch9_tree_modes.pdf"> HSAUR3_chapter09</a> 
      </td>  
         <!-- 
@@ -397,7 +375,7 @@ Otherwise the rendering is broken
     <!--  ------------------------------------- -->
     <!--  Woche 13 -->
     <!--  ------------------------------------- -->
-                                                                        <tr>
+      <tr>
      <!-- week  -->
     <td style="text-align: left;" valign="top">
       13
@@ -408,17 +386,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             see last week
      </td>  
         <!-- 
@@ -428,7 +404,7 @@ Otherwise the rendering is broken
     <!--  ------------------------------------- -->
     <!--  Woche 14 -->
     <!--  ------------------------------------- -->
-                                                                        <tr>
+     <tr>
      <!-- week  -->
     <td style="text-align: left;" valign="top">
       14
@@ -439,18 +415,16 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+        <a href=""> XX</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href=""> XX</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch11_survival_analysis.pdf"> HSAUR3_chapter11</a> 
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch11_survival_analysis.pdf"> HSAUR3_chapter11</a> 
     </td>  
         <!-- 
       </ul>
