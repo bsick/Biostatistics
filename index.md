@@ -1,8 +1,4 @@
----
-layout: default
-mathjax: true
-title: Lectures Biostatistics
----
+
 
 # Biostatistics in Fall 2018
 
