@@ -22,9 +22,9 @@ Otherwise the rendering is broken
   <tr>
       <th style="text-align: left;" width="%5">Week</th>
       <th style="text-align: left;" width="%5">Date</th>
-      <th style="text-align: left;" width="%55">Topics and Lectures notes</th>
+      <th style="text-align: left;" width="%65">Topics and Lectures notes</th>
       <th style="text-align: left;" width="%20">Exercises</th>
-      <th style="text-align: left;" width="%20">Literature</th>
+      <th style="text-align: left;" width="%15">Literature</th>
   </tr>
     <!--  ------------------------------------- -->
     <!--  week 1 -->
@@ -40,7 +40,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       introduction / basic terms / datatypes / uni-variate graphical displays
-        <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -70,7 +70,7 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <b> <a href=""> XX</a>
+      <a href=""> XX</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
