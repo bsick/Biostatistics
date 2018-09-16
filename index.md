@@ -4,9 +4,9 @@
 
 The course deals with simple quantitative and graphical as well as more complex methods of biostatistics. Contents: Descriptive statistics, probability theory and design of experiments, testing hypotheses, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurement of agreement.
 
-Lectures take place from 10:10-11:45 in ETH HG room E21.
+Lectures take place on Tuesdays from 10:10-11:45 in ETH HG room E21.
 
-Exercises take place from 16:15-17:00 in ETH HG rinn D7.1.
+Exercises take place on Tuesdays from 16:15-17:00 in ETH HG rinn D7.1.
 
 For doing the hands-on part on your own computer you should install R and RStudio (see first exercise).
 
