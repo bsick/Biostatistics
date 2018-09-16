@@ -44,12 +44,11 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_01</a> | 
             <a href=''> XX</a> 
+     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-    	<ul>
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_chapter01</a> 
         </td>  
         <!-- 
