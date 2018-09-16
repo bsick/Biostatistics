@@ -12,7 +12,7 @@ For doing the hands-on part on your own computer you should install R and RStudi
 
 The exam will be a 45 minute MC quizz. Date and room will be announced asap.
 
-The currently planned topics are summarized in the <b> <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/formalia_public/semesterplan15092018.pdf"> semester plan</a>
+The currently planned topics are summarized in the <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/formalia_public/semesterplan15092018.pdf"> semester plan</a>
   
 
 ## Material for Lectures and Exercises  
