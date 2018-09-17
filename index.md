@@ -6,7 +6,7 @@ The course deals with simple quantitative and graphical as well as more complex 
 
 Lectures take place on Tuesdays from 10:10-11:45 in ETH HG room E21.
 
-Exercises take place on Tuesdays from 16:15-17:00 in ETH HG rinn D7.1.
+Exercises take place on Tuesdays from 16:15-17:00 in ETH HG room D7.1.
 
 For doing the hands-on part on your own computer you should install R and RStudio (see first exercise).
 
