@@ -44,7 +44,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       introduction / basic terms / datatypes / uni-variate graphical displays
-       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_plan.pdf"> slides_01_plan</a>
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -73,7 +73,7 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <a href=""> XX</a>
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_plan.pdf"> slides_02_plan<</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
