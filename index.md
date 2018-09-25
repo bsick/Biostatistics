@@ -78,7 +78,8 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise1.pdf"> ex_1</a> | 
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/data/survey.csv"> data_1</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/data/survey.csv"> data_1</a> |
+            <a href="https://www.dropbox.com/s/qmfh1ib3dzr50z5/lecture02.pdf?dl=1"> data </a>
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
