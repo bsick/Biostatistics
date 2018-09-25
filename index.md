@@ -48,8 +48,8 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_01</a> | 
-            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_solution.pdf'> ex_01_solution</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_0</a> | 
+            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_solution.pdf'> ex_0_solution</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
@@ -77,7 +77,7 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise1.pdf"> ex_1</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
