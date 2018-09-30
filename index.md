@@ -4,7 +4,8 @@
 
 The course deals with simple quantitative and graphical as well as more complex methods of biostatistics. Contents: Descriptive statistics, probability theory and design of experiments, testing hypotheses, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurement of agreement.
 
-Formalia:
+**Formalia:**
+
 As learning material the slides and exercises with solutions are provided. However the course lives also from the interaction and discussion during the lectures and exercises as well as from explanations at the blackboard. There is no obligation to visit the lecture to attend the exam, but the exam requires sound understanding of the concepts that were teached. The topics of missed lectures must be learned in self-study. The course is tailored for master students of medical physics, but also master students from other programs can attend and take the exam. Subsribed PhD students can visit the lectures and also take the exam. There will be the **same exam for all students** and no extra or oral exam for PhD students. If PhD students want to earn ECTS with this course they have to clarify with their PhD program head or direct advisor if this is possible by passing the standard written MC exam.
 
 Lectures take place on Tuesdays from 10:10-11:45 in ETH HG room E21.
@@ -13,7 +14,7 @@ Exercises take place on Tuesdays from 16:15-17:00 in ETH HG room D7.1.
 
 For doing the hands-on part on your own computer you should install R and RStudio (see first exercise).
 
-The exam will be a 45 minute MC quizz. Date and room will be announced asap.
+The exam will be a 45 minute MC quizz. The Date will probably be Tuesday, 11th December (will be fixed soon) and the room will be announced asap.
 
 The currently planned topics are summarized in the <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/formalia_public/semesterplan15092018.pdf"> semester plan</a>.
   
@@ -108,11 +109,12 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+      Inferential statistics,  model choice and model fitting, Confidence interval, significance, relevance
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_03_plan.pdf"> slides_03_plan</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise1.pdf"> ex_2</a> | 
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
