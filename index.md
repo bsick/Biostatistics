@@ -3,7 +3,9 @@
 # Biostatistics in Fall 2018
 
 The course deals with simple quantitative and graphical as well as more complex methods of biostatistics. Contents: Descriptive statistics, probability theory and design of experiments, testing hypotheses, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurement of agreement.
-As learning material the slides and exercises with solutions are provided. However the course lives also from the interaction and discussion during the lectures as well as from explanations at the blackboard. There is no obligation to visit the lecture to attend the exam, but the exam requires sound understanding of the concepts that were teached. The course is tailored for master students of medical physics, but also master students from other programs can attend and take the exam. Subsribed PhD students can visit the lectures and also take the exam. There will be the same exam for all students and no oral exam for PhD students and they have to clarify with their PhD program head or direct advisor if the exam provides them with required ECTS.
+
+Formalia:
+As learning material the slides and exercises with solutions are provided. However the course lives also from the interaction and discussion during the lectures and exercises as well as from explanations at the blackboard. There is no obligation to visit the lecture to attend the exam, but the exam requires sound understanding of the concepts that were teached. The topics of missed lectures must be learned in self-study. The course is tailored for master students of medical physics, but also master students from other programs can attend and take the exam. Subsribed PhD students can visit the lectures and also take the exam. There will be the **same exam for all students** and no extra or oral exam for PhD students. If PhD students want to earn ECTS with this course they have to clarify with their PhD program head or direct advisor if this is possible by passing the standard written MC exam.
 
 Lectures take place on Tuesdays from 10:10-11:45 in ETH HG room E21.
 
