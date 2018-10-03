@@ -109,8 +109,8 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      Inferential statistics,  model choice and model fitting, Confidence interval, significance, relevance
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_03_plan.pdf"> slides_03_plan</a>
+      Inferential statistics,  model choice and model fitting
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_03_presented.pdf"> slides_03_presented</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -141,7 +141,8 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+      Confidence interval, significance, relevance, t-test, p-value, wilcoxon test
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_plan.pdf"> slides_04_plan</a>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href=""> XX</a> | 
