@@ -78,7 +78,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
      key numbers for location / uni- and bi-variate graphical displays
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_presented.pdf"> slides_02_presented</a>
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_update.pdf"> slides_02_update</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
