@@ -142,7 +142,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Confidence interval, significance, relevance, t-test, p-value, wilcoxon test
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_presented.pdf"> slides_04_presented</a>
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_presented.pdf">slides_04_presented</a>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise04.pdf"> ex_04 </a> | 
@@ -173,7 +173,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Location tests, wilcoxon test, sample size calcualtion, multiple testing
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_05_plan.pdf"> slides_05_plan</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_05_plan.pdf">slides_05_plan</a> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
