@@ -141,7 +141,7 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      Confidence interval, significance, relevance, t-test, p-value, relevance, significance
+      Confidence interval, t-test, p-value, relevance, significance
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_presented.pdf">slides_04_presented</a>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
