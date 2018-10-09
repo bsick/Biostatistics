@@ -52,8 +52,8 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_0</a> | 
-            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_solution.pdf'> ex_0_solution</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise_01.pdf"> ex_01</a> | 
+            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise01_solution.pdf'> ex_01_solution</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
@@ -82,10 +82,10 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise1.pdf"> ex_1</a> | 
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/survey.csv"> data_1_html</a> |
-            <a href="https://www.dropbox.com/s/dyg7chzf4j550s0/survey.csv?dl=1"> data_1_csv </a> |
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise1_solution.pdf"> ex_1_solution</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise02.pdf"> ex_02</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/survey.csv"> data_02_html</a> |
+            <a href="https://www.dropbox.com/s/dyg7chzf4j550s0/survey.csv?dl=1"> data_02_csv </a> |
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise02_solution.pdf"> ex_02_solution</a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
@@ -114,10 +114,10 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise2.pdf"> ex_2 </a> | 
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/pet_counts.csv"> data_2_html </a> |
-            <a href="https://www.dropbox.com/s/kqvqx8d12vv20va/pet_counts.csv?dl=1"> data_2_csv </a> |
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise2_solution.pdf"> ex_2_solution </a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise_03.pdf"> ex_03 </a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/pet_counts.csv"> data_03_html </a> |
+            <a href="https://www.dropbox.com/s/kqvqx8d12vv20va/pet_counts.csv?dl=1"> data_03_csv </a> |
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise03_solution.pdf"> ex_03_solution </a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
@@ -145,8 +145,10 @@ Otherwise the rendering is broken
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_plan.pdf"> slides_04_plan</a>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise_04.pdf"> ex_04 </a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/training.txt"> data_04_html </a> |
+            <a href="https://www.dropbox.com/s/0simih4qriikc7q/training.txt?dl=1"> data_04_csv </a> |
+           <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise03_solution.pdf"> ex_03_solution </a> -->
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
