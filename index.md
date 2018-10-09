@@ -14,7 +14,7 @@ Exercises take place on Tuesdays from 16:15-17:00 in ETH HG room D7.1.
 
 For doing the hands-on part on your own computer you should install R and RStudio (see first exercise).
 
-The **exam will be a 60 minute MC quizz**. The Date will probably be Tuesday, 11th December (will be fixed soon) and the room will be announced asap. It is not open book, but you are allowed to bring 2 A4 (written on both sides, all together 4 pages) of summary with you.
+The **exam will be a 60 minute MC quizz**. The Date will probably be Tuesday, 11th December, the room will be announced asap. It is not open book, but you are allowed to bring 2 A4 (written on both sides, all together 4 pages) of summary with you. You will not be asked for proofs or R-Code, but you need to understand the concepts and be able to interpret presented analysis results or R-outputs.
 
 The currently planned topics are summarized in the <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/formalia_public/semesterplan15092018.pdf"> semester plan</a>.
   
