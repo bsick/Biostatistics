@@ -148,7 +148,7 @@ Otherwise the rendering is broken
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise04.pdf"> ex_04 </a> | 
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/training.txt"> data_04_html </a> |
             <a href="https://www.dropbox.com/s/0simih4qriikc7q/training.txt?dl=1"> data_04_csv </a> |
-           <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise03_solution.pdf"> ex_03_solution </a> -->
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise04_solution.pdf"> ex_04_solution </a>
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
@@ -177,7 +177,7 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise05.pdf"> ex_05 </a> |
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
