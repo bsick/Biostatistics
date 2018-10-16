@@ -173,7 +173,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Wilcoxon test, sample size calcualtion, multiple testing
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_05_plan.pdf">slides_05_plan</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_05_presented.pdf">slides_05_presented</a> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -202,7 +202,8 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+      Relative Risk, Odds Ratio, study types, independence test for a categorical variables: Chi-square, Fischer exact test
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_06_plan.pdf">slides_06_plan</a> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
