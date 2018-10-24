@@ -210,7 +210,7 @@ Otherwise the rendering is broken
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise06.pdf"> ex_06 </a> |
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/coffee.csv"> data_06_html </a> |
             <a href="https://www.dropbox.com/s/sud5v2iexaewh5n/coffee.csv?dl=1"> data_06_csv </a> |
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise06_solution.pdf"> ex_06_solution </a> |
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise06_solution.pdf"> ex_06_solution </a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
