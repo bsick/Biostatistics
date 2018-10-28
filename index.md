@@ -234,7 +234,8 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+      Diagnostic tests, Performance measures: Sensitivity, Specificity, Positive Predictive value
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_07_plan.pdf">slides_07_plan</a> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
