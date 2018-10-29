@@ -239,7 +239,7 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise07.pdf"> ex_07 </a> |
             <a href=""> XX</a> 
     </td>  
     <!--  Lieterature  -->
