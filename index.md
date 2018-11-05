@@ -240,7 +240,7 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise07.pdf"> ex_07 </a> |
-            <a href=""> XX</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise07_solution.pdf"> ex_07_solution </a> 
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
@@ -268,7 +268,7 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise08.pdf"> ex_08 </a> |
             <a href=""> XX</a> 
      </td>  
     <!--  Lieterature  -->
