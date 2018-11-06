@@ -264,7 +264,8 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+      Simple linear regression
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_08.pdf"> slides_08 </a> 
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
