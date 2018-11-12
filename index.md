@@ -274,7 +274,7 @@ Otherwise the rendering is broken
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch6_linear_regression.pdf"> HSAUR3_chapter06</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUS3_ch6_linear_regression.pdf"> HSAUR3_chapter06</a> 
      </td>  
         <!-- 
       </ul>
