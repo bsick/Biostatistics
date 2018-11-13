@@ -294,7 +294,9 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+        Tests and CI in lin regression, multiple linear regression
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_07_plan.pdf">slides_07_plan</a> 
+     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise09.pdf"> ex_09 </a> |
