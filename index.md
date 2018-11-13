@@ -295,7 +295,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
         Tests and CI in lin regression, multiple linear regression
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_07_plan.pdf">slides_07_plan</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_09_plan.pdf">slides_09_plan</a> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
