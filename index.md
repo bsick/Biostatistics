@@ -301,8 +301,8 @@ Otherwise the rendering is broken
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise09.pdf"> ex_09 </a> |
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/catheter.rda"> data_09_html </a> |
-            <a href="https://www.dropbox.com/s/yb46pqxdf0q16nq/catheter.rda?dl=1"> data_09_rda </a> 
-            <a href=""> XX</a> 
+            <a href="https://www.dropbox.com/s/yb46pqxdf0q16nq/catheter.rda?dl=1"> data_09_rda </a> |
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise09_solution.pdf"> ex_09_solution </a>
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
