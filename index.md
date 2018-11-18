@@ -295,7 +295,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
         Tests and CI in lin regression, multiple linear regression
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_09_plan.pdf">slides_09_plan</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_09_presented.pdf">slides_09_presented</a> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -325,8 +325,9 @@ Otherwise the rendering is broken
       Tuesday 20.11.2018
      </td>  
      <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+ 	<td style="text-align: left;" valign="top"> 
+        Regression to the mean, model selection with warnings
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_10_plan.pdf">slides_10_plan</a> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
