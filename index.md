@@ -326,7 +326,7 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
  	<td style="text-align: left;" valign="top"> 
-        Regression to the mean, model selection with warnings
+        Regression to the mean, model selection with warnings, Anova
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_10_plan.pdf">slides_10_plan</a> 
      </td>  
     <!--  Exercises  -->
