@@ -336,7 +336,7 @@ Otherwise the rendering is broken
             <a href="https://www.dropbox.com/s/0idkyx2sv5zss2q/abuse.csv?dl=1"> data_10_1_csv </a> |
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/mortality.csv"> data_10_2_html </a> |
             <a href="https://www.dropbox.com/s/kudy1l0kl0njs9z/mortality.csv?dl=1"> data_10_2_csv </a> |
-            <a href=""> XX</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise10_solution.pdf"> ex_10_solution </a>
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
