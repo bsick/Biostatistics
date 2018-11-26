@@ -359,9 +359,10 @@ Otherwise the rendering is broken
       Tuesday 27.11.2018
      </td>  
      <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    </td>  
+ 	<td style="text-align: left;" valign="top"> 
+        Regression models for prediction, Coefficient shrinkage via Ridge Regression or Lasso, Regression to the mean
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_11_plan.pdf">slides_11_plan</a> 
+     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href=""> XX</a> | 
