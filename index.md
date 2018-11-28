@@ -366,7 +366,7 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise11.pdf"> ex_11 </a> |
-            <a href=""> XX</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise11_solution.pdf"> ex_11_solution </a>
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
