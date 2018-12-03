@@ -82,7 +82,7 @@ Otherwise the rendering is broken
      key numbers for location / uni- and bi-variate graphical displays
       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_update.pdf"> slides_02_update</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex2-reading-plots.pdf"> ex_in_class_02</a> |
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-reading-plots-solution.pdf"> ex_in_class_02_solution</a>
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex2-reading-plots-solution.pdf"> ex_in_class_02_solution</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
