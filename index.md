@@ -412,7 +412,8 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a> |
+      Wrapping up regression, ANOVA
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_12_plan.pdf">slides_12_plan</a> | 
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex12-multiple-linReg.pdf"> ex_in_class_12</a> |
     </td>  
     <!--  Exercises  -->
