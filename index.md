@@ -393,6 +393,7 @@ Otherwise the rendering is broken
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch7_logistic_regression_glm.pdf"> HSAUR3_chapter07</a> 
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/Senn2009.3.things.to.know.pdf"> Senn2009.3.things.to.know</a> 
      </td>  
         <!-- 
       </ul>
@@ -415,6 +416,7 @@ Otherwise the rendering is broken
       Wrapping up regression, ANOVA
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_12_plan.pdf">slides_12_plan</a> | 
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex12-multiple-linReg.pdf"> ex_in_class_12</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex12-multiple-linReg-solution_solution.pdf"> ex_in_class_12_solution</a> 
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
