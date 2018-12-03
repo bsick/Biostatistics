@@ -48,7 +48,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       introduction / basic terms / datatypes / uni-variate graphical displays
-       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented</a>
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-data-types.pdf"> ex_in_class_01</a> |
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-data-types-solution.pdf"> ex_in_class_01_solution</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -78,7 +80,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
      key numbers for location / uni- and bi-variate graphical displays
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_update.pdf"> slides_02_update</a>
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_update.pdf"> slides_02_update</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex2-reading-plots.pdf"> ex_in_class_02</a> |
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-reading-plots-solution.pdf"> ex_in_class_02_solution</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -110,7 +114,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Inferential statistics,  model choice and model fitting
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_03_presented.pdf"> slides_03_presented</a>
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_03_presented.pdf"> slides_03_presented</a>|
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex3-model-choice-CI.pdf"> ex_in_class_03</a> |
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex3-model-choice-CI-solution.pdf"> ex_in_class_03_solution</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -142,7 +148,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Confidence interval, t-test, p-value, relevance, significance
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_presented.pdf">slides_04_presented</a>
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_presented.pdf">slides_04_presented</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex4-testing-p-value.pdf"> ex_in_class_04</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex4-testing-p-value-solution.pdf"> ex_in_class_04_solution</a>
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise04.pdf"> ex_04 </a> | 
@@ -173,7 +181,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Wilcoxon test, sample size calcualtion, multiple testing
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_05_presented.pdf">slides_05_presented</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_05_presented.pdf">slides_05_presented</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex5-p-value-distribution.pdf"> ex_in_class_05</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex5-p-value-distribution-solution.pdf"> ex_in_class_05_solution</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -203,7 +213,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Relative Risk, Odds Ratio, study types, independence test for a categorical variables: Chi-square, Fischer exact test
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_06_plan.pdf">slides_06_plan</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_06_plan.pdf">slides_06_plan</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex6-study-types-RR.pdf"> ex_in_class_06</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex6-study-types-RR-solution.pdf"> ex_in_class_06_solution</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -235,7 +247,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Diagnostic tests, Performance measures: Sensitivity, Specificity, Positive Predictive value
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_07_plan.pdf">slides_07_plan</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_07_plan.pdf">slides_07_plan</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex7-ROC-PPV.pdf"> ex_in_class_07</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex7-ROC-PPV-solution.pdf"> ex_in_class_07_solution</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -265,7 +279,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Simple linear regression
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_08.pdf"> slides_08 </a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_08.pdf"> slides_08 </a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex8-simple-linReg.pdf"> ex_in_class_08</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex8-simple-linReg-solution.pdf"> ex_in_class_08_solution</a> 
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -295,7 +311,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
         Tests and CI in lin regression, multiple linear regression
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_09_presented.pdf">slides_09_presented</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_09_presented.pdf">slides_09_presented</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex9-linReg.pdf"> ex_in_class_09</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex9-linReg-solution.pdf"> ex_in_class_09_solution</a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
