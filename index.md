@@ -453,7 +453,6 @@ Otherwise the rendering is broken
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
-            see last week
      </td>  
         <!-- 
       </ul>
