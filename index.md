@@ -443,12 +443,11 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+        Exam, 10-12am, HG E 3  
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
+        no exercise
     </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
