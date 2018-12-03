@@ -115,7 +115,7 @@ Otherwise the rendering is broken
   	<td style="text-align: left;" valign="top"> 
       Inferential statistics,  model choice and model fitting
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_03_presented.pdf"> slides_03_presented</a>|
-       <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex3-model-choice-CI.pdf"> ex_in_class_03</a> | -->
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex3-model-choice-CI.pdf"> ex_in_class_03</a> |
       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex3-model-choice-CI-solution.pdf"> ex_in_class_03_solution</a>
      </td>  
     <!--  Exercises  -->
