@@ -345,7 +345,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
  	<td style="text-align: left;" valign="top"> 
         Correlation, OLS estimates for coefficients in linear regression, model selection with warnings, Anova
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_10_presented.pdf">slides_10_presented</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_10_presented.pdf">slides_10_presented</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex10-correlation.pdf"> ex_in_class_10</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex10-correlation-solution.pdf"> ex_in_class_10_solution</a> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -379,7 +381,9 @@ Otherwise the rendering is broken
      <!-- Lectures -->
  	<td style="text-align: left;" valign="top"> 
         Regression models for prediction, Coefficient shrinkage via Ridge Regression or Lasso, Regression to the mean
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_11_presented.pdf">slides_11_presented</a> 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_11_presented.pdf">slides_11_presented</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex11-prediction-models.pdf"> ex_in_class_11</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex11-prediction-models-solution.pdf"> ex_in_class_11_solution</a>  
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -408,7 +412,8 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
+        <a href=""> XX</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex12-multiple-linReg.pdf"> ex_in_class_12</a> |
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
