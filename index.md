@@ -414,7 +414,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       Wrapping up regression, ANOVA
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_12_plan.pdf">slides_12_plan</a> | 
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_12_presented.pdf">slides_12_presented</a> | 
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex12-multiple-linReg.pdf"> ex_in_class_12</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex12-multiple-linReg-solution_solution.pdf"> ex_in_class_12_solution</a> 
     </td>  
