@@ -16,7 +16,7 @@ For doing the hands-on part on your own computer you should install R and RStudi
 
 The **exam will be a 60 minute MC quizz**. The Date will probably be **Tuesday, 11th December, in room HG E3** . It is not open book, but you are allowed to bring 2 A4 (written on both sides, all together 4 pages) of summary with you. You will not be asked for proofs or R-Code, but you need to understand the concepts and be able to interpret presented analysis results or R-outputs.
 
-To get a feeling for the type of exam you can check out a old exam, but please be aware that the covered topics did change since then and therefore you can not expect to get questions on exactly the same topics. All topics discussed in the lectures and the exercises can be adressed in the exam inclusively all discussed aspects of linear models. Here you find a <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam.pdf">test-exam</a> and the <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solutions.pdf">test-exam-solution</a>.   
+To get a feeling for the type of exam you can check out a old exam, but please be aware that the covered topics did change since then and therefore you can not expect to get questions on exactly the same topics. All topics discussed in the lectures and the exercises can be adressed in the exam inclusively all discussed aspects of linear models. Here you find a <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-update.pdf">test-exam-updated</a> and the <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solutions-update.pdf">test-exam-solution-updated</a>.   
   
 
 ## Material for Lectures and Exercises  
@@ -420,8 +420,8 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam.pdf"> test_exam </a> |
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solutions.pdf"> test_exam_solution </a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-update.pdf"> test_exam_updated </a> |
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solutions-update.pdf"> test_exam_solution_updated </a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
