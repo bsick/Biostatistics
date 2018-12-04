@@ -421,7 +421,7 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
             <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam.pdf"> test_exam </a> |
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solution.pdf"> test_exam_solution </a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solution.pdf"> test_exam_solutions </a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
