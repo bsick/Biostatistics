@@ -420,8 +420,8 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam.pdf"> test_exam </a> |
+            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solution.pdf"> test_exam_solution </a> 
      </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
