@@ -472,13 +472,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    </td>  
+        Tree models for regression and classification, Random Forest
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_14_plan.pdf">slides_14_plan</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex14-trees.pdf"> ex_in_class_14</a> |
+       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex14-trees-solution.pdf"> ex_in_class_14_solution</a>  
+     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
+        no exercise
+    </td>  
     <!--  Lieterature  -->
     <td style="text-align: left;" valign="top">
       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch11_survival_analysis.pdf"> HSAUR3_chapter11</a> 
