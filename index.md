@@ -473,7 +473,7 @@ Otherwise the rendering is broken
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
         Tree models for regression and classification, Random Forest
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_14_plan.pdf">slides_14_plan</a> |
+        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_14_presented.pdf">slides_14_presented</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex14-trees.pdf"> ex_in_class_14</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex14-trees-solution.pdf"> ex_in_class_14_solution</a>  
      </td>  
