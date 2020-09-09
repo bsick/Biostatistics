@@ -16,7 +16,7 @@ The course is tailored for master students of medical physics. However, master s
 
 **Dates:**
 
-Start/End date: 15.09.2020 - 15.12.2020
+Start/End date: 15.09.2020 - 15.12.2020 \\
 Lectures: Tuesdays, 10:00 - 11:45 (VIA ZOOM)
 Exercises: Tuesdays, 17:00 - 17:45 (ONLINE)
 
