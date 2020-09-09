@@ -2,7 +2,9 @@
 
 # Biostatistics 
 
-This course deals with simple quantitative and graphical approaches as well as with more complex methods of biostatistics. Contents include descriptive statistics, probability theory and design of experiments, hypotheses testing, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurements of agreement.
+This course deals with simple quantitative and graphical approaches as well as with more complex methods of biostatistics. 
+
+**Contents:** Descriptive statistics, probability theory and design of experiments, hypotheses testing, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurements of agreement.
 
 **Organisation:**
 Slides and exercises with solutions along with literatur links are provided as learning material on this website. However, the course lives from the interaction and discussion during lectures and exercises. There is no obligation to visit the lectures or exercises to attend the exam, but the exam requires sound understanding of the concepts that were taught. For doing the hands-on part on your own computer you need to install R and RStudio (see first exercise).
