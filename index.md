@@ -11,9 +11,11 @@ Slides and exercises with solutions along with literatur links are provided as l
 For questions we are available 15 minutes before and after the lecture - please use this time slots and do not ask questions via e-mail. 
 
 **Target group:** 
+
 The course is tailored for master students of medical physics. However, master students from other programs and subscribed PhD students can attend and take the exam as well. In the end, there will be the **same exam for all students** and no extra or oral exam for PhD students. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if they get the credits by passing the standard written MC exam.
 
 **Dates:**
+
 Start/End date: 15.09.2020 - 15.12.2020
 Lectures: Tuesdays, 10:00 - 11:45 (VIA ZOOM)
 Exercises: Tuesdays, 17:00 - 17:45 (ONLINE)
