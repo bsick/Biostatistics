@@ -5,14 +5,17 @@
 This course deals with simple quantitative and graphical approaches as well as with more complex methods of biostatistics. 
 
 **Content:** 
+
 Descriptive statistics, probability theory and design of experiments, hypotheses testing, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurements of agreement.
 
 **Organisation:**
+
 Slides and exercises with solutions along with literatur links are provided as learning material on this website. However, the course lives from interactions and discussions during the lectures and exercises. There is no obligation to visit the lectures and/or exercises to attend the exam, but the exam requires sound understanding of the concepts that were taught. For doing the hands-on part on your own computer you need to install R and RStudio (see first exercise).
 
 For questions we are available 15 minutes before and after the lecture - please use this time slots and do not ask questions via e-mail. 
 
 **Target group:** 
+
 The course is tailored for master students of medical physics. However, master students from other programs and subscribed PhD students can attend and take the exam as well.
 
 **Dates:**
@@ -22,6 +25,7 @@ The course is tailored for master students of medical physics. However, master s
 <p> Exam: tba </p>
 
 **Exam:**
+
 The exam will be a **60 minute MC quiz**. There will be the **same exam for all students**. PhD student will have no extra/oral exam. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if they obtain the credits by passing the standard written MC exam.
 
 More information about the exam will follow during the semester.
@@ -31,6 +35,7 @@ More information about the exam will follow during the semester.
   
   
 **Learning Material:**
+
 <!--  
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Note on table no empty lines / Bitte keine Leerzeilen 
