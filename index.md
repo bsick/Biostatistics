@@ -4,10 +4,11 @@
 
 This course deals with simple quantitative and graphical approaches as well as with more complex methods of biostatistics. 
 
-**Contents:** Descriptive statistics, probability theory and design of experiments, hypotheses testing, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurements of agreement.
+**Content:** 
+Descriptive statistics, probability theory and design of experiments, hypotheses testing, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurements of agreement.
 
 **Organisation:**
-Slides and exercises with solutions along with literatur links are provided as learning material on this website. However, the course lives from the interaction and discussion during lectures and exercises. There is no obligation to visit the lectures or exercises to attend the exam, but the exam requires sound understanding of the concepts that were taught. For doing the hands-on part on your own computer you need to install R and RStudio (see first exercise).
+Slides and exercises with solutions along with literatur links are provided as learning material on this website. However, the course lives from interactions and discussions during the lectures and exercises. There is no obligation to visit the lectures and/or exercises to attend the exam, but the exam requires sound understanding of the concepts that were taught. For doing the hands-on part on your own computer you need to install R and RStudio (see first exercise).
 
 For questions we are available 15 minutes before and after the lecture - please use this time slots and do not ask questions via e-mail. 
 
@@ -21,9 +22,9 @@ The course is tailored for master students of medical physics. However, master s
 <p> Exam: tba </p>
 
 **Exam:**
-The exam will be a **60 minute MC quizz**. There will be the **same exam for all students**. PhD student will have no extra/oral exam. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if they get the credits by passing the standard written MC exam.
+The exam will be a **60 minute MC quiz**. There will be the **same exam for all students**. PhD student will have no extra/oral exam. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if they obtain the credits by passing the standard written MC exam.
 
-More information will follow during the semester.
+More information about the exam will follow during the semester.
 <!--The Date will probably be mid/end of december (tba) . It is not open book, but you are allowed to use a 2 A4 summary (written on both sides, all together 4 pages). You will not be asked for proofs or R-Code, but you need to understand the concepts and be able to interpret presented analysis results or R-outputs.
 
 <!-- To get a feeling for the type of exam you can check out a old exam, but please be aware that the covered topics did change since then and therefore you can not expect to get questions on exactly the same topics. All topics discussed in the lectures and the exercises can be adressed in the exam inclusively all discussed aspects of linear models. Here you find a <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-update.pdf">test-exam-updated</a> and the <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solutions-update.pdf">test-exam-solution-updated</a>.  -->
@@ -41,7 +42,8 @@ Otherwise the rendering is broken
   <tr>
       <th style="text-align: left;" width="%5">Week</th>
       <th style="text-align: left;" width="%5">Date</th>
-      <th style="text-align: left;" width="%65">Topics and Lectures notes</th>
+      <th style="text-align: left;" width="%65">Topics</th>
+      <th style="text-align: left;" width="%65">Lectures notes</th>
       <th style="text-align: left;" width="%20">Exercises</th>
       <th style="text-align: left;" width="%15">Literature</th>
   </tr>
@@ -54,12 +56,15 @@ Otherwise the rendering is broken
      </td>  
          <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 15.09.2020
-     </td>  
+      Tue, 15.09.2020
+     </td> 
+  <!-- Topics -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- introduction / basic terms / datatypes / uni-variate graphical displays -->
+     </td> 
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- introduction / basic terms / datatypes / uni-variate graphical displays
-       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented</a> |
+      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-data-types.pdf"> ex_in_class_01</a> |
       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-data-types-solution.pdf"> ex_in_class_01_solution</a> -->
      </td>  
@@ -86,12 +91,15 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 22.09.2020
+      Tue, 22.09.2020
      </td>  
+    <!-- Topics -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- key numbers for location / uni- and bi-variate graphical displays -->
+     </td> 
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-     <!-- key numbers for location / uni- and bi-variate graphical displays
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_update.pdf"> slides_02_update</a> |
+     <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_update.pdf"> slides_02_update</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex2-reading-plots.pdf"> ex_in_class_02</a> |
       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex2-reading-plots-solution.pdf"> ex_in_class_02_solution</a> -->
     </td>  
@@ -120,12 +128,15 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 29.09.2020
+      Tue, 29.09.2020
      </td>  
+    <!-- Topics -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- Inferential statistics,  model choice and model fitting -->
+     </td> 
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!--  Inferential statistics,  model choice and model fitting
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_03_presented.pdf"> slides_03_presented</a>|
+      <!--  <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_03_presented.pdf"> slides_03_presented</a>|
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex3-model-choice-CI.pdf"> ex_in_class_03</a> |
       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex3-model-choice-CI-solution.pdf"> ex_in_class_03_solution</a> -->
      </td>  
@@ -154,12 +165,14 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 06.10.2020
+      Tue, 06.10.2020
      </td>  
-     <!-- Lectures -->
+     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Confidence interval, t-test, p-value, relevance, significance
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_presented.pdf">slides_04_presented</a> |
+      <!-- Confidence interval, t-test, p-value, relevance, significance -->
+      <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_04_presented.pdf">slides_04_presented</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex4-testing-p-value.pdf"> ex_in_class_04</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex4-testing-p-value-solution.pdf"> ex_in_class_04_solution</a> -->
     <!--  Exercises  -->
@@ -187,12 +200,14 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 13.10.2020
+      Tue, 13.10.2020
      </td>  
+      <!-- Topics -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- Wilcoxon test, sample size calcualtion, multiple testing -->                    
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Wilcoxon test, sample size calcualtion, multiple testing
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_05_presented.pdf">slides_05_presented</a> |
+      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_05_presented.pdf">slides_05_presented</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex5-p-value-distribution.pdf"> ex_in_class_05</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex5-p-value-distribution-solution.pdf"> ex_in_class_05_solution</a> -->
      </td>  
@@ -219,12 +234,15 @@ Otherwise the rendering is broken
      </td>  
      <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 20.10.2020
+      Tue, 20.10.2020
+     </td>  
+     <!-- Topics -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- Relative Risk, Odds Ratio, study types, independence test for a categorical variables: Chi-square, Fischer exact test -->
      </td>  
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Relative Risk, Odds Ratio, study types, independence test for a categorical variables: Chi-square, Fischer exact test
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_06_plan.pdf">slides_06_plan</a> |
+      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_06_plan.pdf">slides_06_plan</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex6-study-types-RR.pdf"> ex_in_class_06</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex6-study-types-RR-solution.pdf"> ex_in_class_06_solution</a> -->
      </td>  
@@ -253,12 +271,16 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 27.10.2020
+      Tue, 27.10.2020
      </td>  
+    <!-- Topics -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- Diagnostic tests, Performance measures: Sensitivity, Specificity, Positive Predictive value -->
+     </td>  
+     </td>                                
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Diagnostic tests, Performance measures: Sensitivity, Specificity, Positive Predictive value
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_07_plan.pdf">slides_07_plan</a> |
+      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_07_plan.pdf">slides_07_plan</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex7-ROC-PPV.pdf"> ex_in_class_07</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex7-ROC-PPV-solution.pdf"> ex_in_class_07_solution</a> -->
      </td>  
@@ -285,12 +307,15 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 03.11.2020
+      Tue, 03.11.2020
      </td>  
-     <!-- Lectures -->
+  <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Simple linear regression
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_08.pdf"> slides_08 </a> |
+      <!-- Simple linear regression -->
+    </td>  
+  <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_08.pdf"> slides_08 </a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex8-simple-linReg.pdf"> ex_in_class_08</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex8-simple-linReg-solution.pdf"> ex_in_class_08_solution</a> -->
     </td>  
@@ -317,12 +342,15 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 10.11.2020
+      Tue, 10.11.2020
      </td>  
-     <!-- Lectures -->
+     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-        <!-- Tests and CI in lin regression, multiple linear regression
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_09_presented.pdf">slides_09_presented</a> |
+        <!-- Tests and CI in lin regression, multiple linear regression -->
+     </td>  
+   <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_09_presented.pdf">slides_09_presented</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex9-linReg.pdf"> ex_in_class_09</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex9-linReg-solution.pdf"> ex_in_class_09_solution</a> -->
      </td>  
@@ -351,12 +379,15 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 17.11.2020
+      Tue, 17.11.2020
      </td>  
-     <!-- Lectures -->
+     <!-- Topics -->
  	<td style="text-align: left;" valign="top"> 
-        <!-- Correlation, OLS estimates for coefficients in linear regression, model selection with warnings, Anova
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_10_presented.pdf">slides_10_presented</a> |
+        <!-- Correlation, OLS estimates for coefficients in linear regression, model selection with warnings, Anova -->
+     </td>       
+  <!-- Lectures -->
+ 	<td style="text-align: left;" valign="top"> 
+        <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_10_presented.pdf">slides_10_presented</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex10-correlation.pdf"> ex_in_class_10</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex10-correlation-solution.pdf"> ex_in_class_10_solution</a> -->
      </td>  
@@ -387,12 +418,15 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 24.11.2020
+      Tue, 24.11.2020
      </td>  
-     <!-- Lectures -->
+     <!-- Topics -->
  	<td style="text-align: left;" valign="top"> 
-        <!-- Regression models for prediction, Coefficient shrinkage via Ridge Regression or Lasso, Regression to the mean
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_11_presented.pdf">slides_11_presented</a> |
+        <!-- Regression models for prediction, Coefficient shrinkage via Ridge Regression or Lasso, Regression to the mean -->
+     </td> 
+  <!-- Lectures -->
+ 	<td style="text-align: left;" valign="top"> 
+        <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_11_presented.pdf">slides_11_presented</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex11-prediction-models.pdf"> ex_in_class_11</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex11-prediction-models-solution.pdf"> ex_in_class_11_solution</a> -->
      </td>  
@@ -420,12 +454,15 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 01.12.2020
+      Tue, 01.12.2020
      </td>  
-     <!-- Lectures -->
+     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Wrapping up regression, ANOVA
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_12_presented.pdf">slides_12_presented</a> | 
+      <!-- Wrapping up regression, ANOVA-->
+    </td>  
+<!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_12_presented.pdf">slides_12_presented</a> | 
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex12-multiple-linReg.pdf"> ex_in_class_12</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex12-multiple-linReg-solution.pdf"> ex_in_class_12_solution</a> -->
     </td>  
@@ -452,20 +489,23 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 08.12.2020
+      Tue, 08.12.2020
      </td>  
-     <!-- Lectures -->
+     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
         <!-- Exam, 10-12am, HG E 3  -->
     </td>  
+    <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <!-- -  -->
+    </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-        <!-- no exercise -->
+        <!-- - -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
      </td>  
-        <!-- 
       </ul>
     </td>   
   </tr>
@@ -479,18 +519,21 @@ Otherwise the rendering is broken
      </td>  
     <!-- Date -->
     <td style="text-align: left;" valign="top">
-      Tuesday, 15.12.2020
+      Tue, 15.12.2020
      </td>  
-     <!-- Lectures -->
+      <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-        <!-- Tree models for regression and classification, Random Forest
-        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_14_presented.pdf">slides_14_presented</a> |
+        <!-- Tree models for regression and classification, Random Forest --> 
+     </td>  
+  <!-- Lectures -->
+  	<td style="text-align: left;" valign="top"> 
+        <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_14_presented.pdf">slides_14_presented</a> |
         <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex14-trees.pdf"> ex_in_class_14</a> |
        <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex14-trees-solution.pdf"> ex_in_class_14_solution</a> --> 
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-        <!-- no exercise -->
+        <!-- - -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
