@@ -2,17 +2,17 @@
 
 # Biostatistics 
 
-This course deals with simple quantitative, graphical and more complex methods of biostatistics. Contents: Descriptive statistics, probability theory and design of experiments, testing hypotheses, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurement of agreement.
+This course deals with simple quantitative and graphical approaches as well as with more complex methods of biostatistics. Contents include descriptive statistics, probability theory and design of experiments, hypotheses testng, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurements of agreement.
 
 **Formalia:**
 
-The slides and exercises with solutions along with literatur links are provided as learning material. However, the course lives also from the interaction and discussion during the lectures and exercises as well as from explanations at the blackboard. There is no obligation to visit the lectures or exercises to attend the exam, but the exam requires sound understanding of the concepts that were taught. The course is tailored for master students of medical physics, but master students from other programs can attend and take the exam as well. Subsribed PhD students can visit the lectures and can take the exam. There will be the **same exam for all students** and no extra or oral exam for PhD students. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if this is possible by passing the standard written MC exam.
+Slides and exercises with solutions along with literatur links are provided as learning material. However, the course lives from the interaction and discussion during lectures and exercises as well as from explanations at the blackboard. There is no obligation to visit the lectures or exercises to attend the exam, but the exam requires sound understanding of the concepts that were taught. The course is tailored for master students of medical physics, but master students from other programs can attend and take the exam as well. Subsribed PhD students can visit the lectures and take the exam as well. In the end, there will be the **same exam for all students** and no extra or oral exam for PhD students. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if they get the credits by passing the standard written MC exam.
 
 Lectures take place on Tuesdays from 10:00-11:45 via zoom.
 
 Exercises take place on Tuesdays from 17:00-17:45 online.
 
-For doing the hands-on part on your own computer you should install R and RStudio (see first exercise).
+For doing the hands-on part on your own computer you need to install R and RStudio (see first exercise).
 
 The **exam will be a 60 minute MC quizz**. The date will be anounced soon. 
 <!--The Date will probably be **Tuesday, 11th December, in room HG E3** . It is not open book, but you are allowed to bring 2 A4 (written on both sides, all together 4 pages) of summary with you. You will not be asked for proofs or R-Code, but you need to understand the concepts and be able to interpret presented analysis results or R-outputs.
@@ -259,7 +259,7 @@ Otherwise the rendering is broken
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
-            <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/statistics.notes.diagnostic.tests.pdf"> --> statistics.notes.diagnostic.tests</a> -->
+            <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/statistics.notes.diagnostic.tests.pdf"> statistics.notes.diagnostic.tests</a> -->
      </td>  
         <!-- 
       </ul>
