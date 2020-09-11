@@ -2,7 +2,7 @@
 
 # Biostatistics 
 
-This course deals with simple quantitative and graphical approaches as well as with more complex methods of biostatistics. 
+This course deals with simple quantitative and graphical approaches as well as with more complex methods of biostatistics. Practical applications of the methods and exercises will be taught in R and RStudio (installation instructions are provided in the first exercise). 
 
 **Content:** 
 
@@ -10,7 +10,7 @@ Descriptive statistics, probability theory and design of experiments, hypotheses
 
 **Organisation:**
 
-Slides and exercises with solutions along with literatur links are provided as learning material on this website. However, the course lives from interactions and discussions during the lectures and exercises. There is no obligation to visit the lectures and/or exercises to attend the exam, but the exam requires sound understanding of the concepts that are taught. For doing the hands-on part on your own computer you need to install R and RStudio (see first exercise).
+Slides and exercises with solutions along with literatur links are provided as learning material on this website. However, the course lives from interactions and discussions during the lectures and exercises. There is no obligation to visit the lectures and/or exercises to attend the exam, but the exam requires sound understanding of the concepts that are taught.
 
 For questions we are available 15 minutes before and after the lecture - please use this time slots and do not ask questions via e-mail. 
 
