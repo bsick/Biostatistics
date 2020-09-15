@@ -70,7 +70,7 @@ Otherwise the rendering is broken
      </td> 
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_01_ before.pdf"> slides_01_before</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_01_ before.pdf"> slides_01_before</a>
       <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-data-types.pdf"> ex_in_class_01</a> |
       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-data-types-solution.pdf"> ex_in_class_01_solution</a> -->
      </td>  
