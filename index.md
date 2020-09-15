@@ -21,7 +21,7 @@ The course is tailored for master students of medical physics. However, interest
 **Dates:**
 <p> Start/End date: 15.09.2020 - 15.12.2020 </p>
 <p> Lectures: Tuesdays, 10:00 - 11:45 (VIA ZOOM) </p>
-<p> Exercises: Tuesdays, 17:00 - 17:45 (ONLINE) </p>
+<p> Exercises: Tuesdays, 17:00 - 17:45 (Discord) </p>
 <p> Exam: tba </p>
 
 **Exam:**
@@ -76,7 +76,7 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise01.pdf"> exercise_01</a>  
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01.pdf"> exercise_01</a>  
       <!-- <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise01_solution.pdf'> ex_01_solution</a> -->
      </td>  
     <!--  Literature  -->
