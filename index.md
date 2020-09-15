@@ -76,7 +76,7 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise01.pdf"> exercise_01</a> | 
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise01.pdf"> exercise_01</a>  
       <!-- <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise01_solution.pdf'> ex_01_solution</a> -->
      </td>  
     <!--  Literature  -->
