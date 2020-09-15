@@ -12,7 +12,7 @@ Descriptive statistics, probability theory and design of experiments, hypotheses
 
 Slides and exercises with solutions along with literatur links are provided as learning material on this website. However, the course lives from interactions and discussions during the lectures and exercises. There is no obligation to visit the lectures and/or exercises to attend the exam, but the exam requires sound understanding of the concepts that are taught.
 
-For questions we are available 15 minutes before and after the lecture - please use this time slots and do not ask questions via e-mail. 
+For questions and communication, please use Discord (https://discord.com/). Please use this channel and not emails for communication or ask your questions directly after the lecture.
 
 **Target group:** 
 
