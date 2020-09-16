@@ -70,7 +70,7 @@ Otherwise the rendering is broken
      </td> 
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented </a>
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented </a> |
       <a href="https://ethz.zoom.us/rec/share/eyBnKiBRt6WwtkUWh5F-NK0dJ78TJGEKKtqY6zq5YOL-Bbm4IQNQ581ysoAUs4FS.m9WwxowXQvqAG44K"> video </a>
      </td>  
     <!--  Exercises  -->
