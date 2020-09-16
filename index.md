@@ -66,18 +66,17 @@ Otherwise the rendering is broken
     </td> 
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      Introduction & basics
+      Introduction & Basics
      </td> 
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_01_ before.pdf"> slides_01_before</a>
-      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-data-types.pdf"> ex_in_class_01</a> |
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex1-data-types-solution.pdf"> ex_in_class_01_solution</a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented </a>
+      <a href="https://ethz.zoom.us/rec/share/eyBnKiBRt6WwtkUWh5F-NK0dJ78TJGEKKtqY6zq5YOL-Bbm4IQNQ581ysoAUs4FS.m9WwxowXQvqAG44K"> video </a>
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01.pdf"> exercise_01</a>  
-      <!-- <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise01_solution.pdf'> ex_01_solution</a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01.pdf"> exercise_01 </a>  
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01_solution.pdf"> ex_01_solution_solution </a> -->
      </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
