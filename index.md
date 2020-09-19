@@ -16,7 +16,7 @@ For questions and communication, please use Discord ([https://discord.com/](http
 
 **Target group:** 
 
-The course is tailored for master students of medical physics. However, interested master students from other programs and PhD students can attend and take the exam as well.
+The course is tailored for master students of medical physics. However, interested master students from other programs and PhD students can attend and take the exam as well. Please note, that **for the current FS 2020 the course is already fully booked**, and it is not anymore possible to book the course for students outside the target group. Only student who are register are allowed to participate in the exercises and to take the exam.
 
 **Dates:**
 <p> Start/End date: 15.09.2020 - 15.12.2020 </p>
