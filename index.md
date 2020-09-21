@@ -16,7 +16,9 @@ For questions and communication, please use Discord ([https://discord.com/](http
 
 **Target group:** 
 
-The course is tailored for master students of medical physics. However, interested master students from other programs and PhD students can attend and take the exam as well. Please note, that **for the current FS 2020 the course is already fully booked**, and it is not anymore possible to book the course for students outside the target group. Only student who are register are allowed to participate in the exercises and to take the exam.
+The course is tailored for master students of medical physics. However, interested master students from other programs and PhD students can attend and take the exam as well. 
+
+Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam.
 
 **Dates:**
 <p> Start/End date: 15.09.2020 - 15.12.2020 </p>
@@ -97,24 +99,24 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- key numbers for location / uni- and bi-variate graphical displays -->
+      <!-- Descriptive statistics for continuous data -->
     </td> 
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_update.pdf"> slides_02_update</a> |
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex2-reading-plots.pdf"> ex_in_class_02</a> |
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex2-reading-plots-solution.pdf"> ex_in_class_02_solution</a> -->
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_02_before"> slides_02_before </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex2-reading-plots.pdf"> ex_in_class_02</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex2-reading-plots-solution.pdf"> ex_in_class_02_solution</a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise02.pdf"> ex_02 </a> | 
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/data/survey.csv"> data_02_html</a> |
-      <a href="https://www.dropbox.com/s/dyg7chzf4j550s0/survey.csv?dl=1"> data_02_csv </a> |
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/exercise02_solution.pdf"> ex_02_solution</a> -->
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise02.pdf"> ex_02 </a> | 
+      <a href="https://github.com/bsick/Biostatistics/tree/master/data/survey.csv"> data_02_html</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/survey.csv"> data_02_csv </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise02_solution.pdf"> ex_02_solution</a> -->
      </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_chapter02</a>  -->
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_chapter02</a>  -->
     </td>  
   </tr>
   <!--  ------------------------------------- -->
