@@ -24,7 +24,7 @@ Please note that **for the current WS 2020 the course is already fully booked**,
 <p> Start/End date: 15.09.2020 - 15.12.2020 </p>
 <p> Lectures: Tuesdays, 10:00 - 11:45 (VIA ZOOM) </p>
 <p> Exercises: Tuesdays, 17:00 - 17:45 (Discord) </p>
-<p> Exam: tba </p>
+<p> Exam: Tuesday, 8.12.2020, 10:00 </p>
 
 **Exam:**
 
@@ -104,8 +104,8 @@ Otherwise the rendering is broken
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_02_presented.pdf"> slides_02_presented </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week2-solution.pdf"> ex_in_class_02_sol</a> | -->
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week2.pdf"> ex_in_class_02</a>
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week2.pdf"> ex_in_class_02 </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week2-solution.pdf"> ex_in_class_02_sol</a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
