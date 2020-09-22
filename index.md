@@ -104,6 +104,7 @@ Otherwise the rendering is broken
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_02_presented.pdf"> slides_02_presented </a> |
+      <a href="https://ethz.zoom.us/rec/share/CkbsHzW8io9N2Q5X3u_ZUzWrgIGMHRP0iA2AGqfn8-_Yemh8punmotr6lhvauyN-.C4hX5seg8eNuRdRW"> video </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week2.pdf"> ex_in_class_02 </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week2-solution.pdf"> ex_in_class_02_sol</a>
     </td>  
