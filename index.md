@@ -103,7 +103,7 @@ Otherwise the rendering is broken
     </td> 
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_02_before"> slides_02_before </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_02_before.pdf"> slides_02_before </a> |
       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex2-reading-plots.pdf"> ex_in_class_02</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex2-reading-plots-solution.pdf"> ex_in_class_02_solution</a> -->
     </td>  
