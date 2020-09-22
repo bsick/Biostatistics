@@ -111,7 +111,8 @@ Otherwise the rendering is broken
     <td style="text-align: left;" valign="top">
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_02.pdf"> exercise_02 </a> | 
       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/data/survey.csv"> data_02_html </a> -->
-      <a href="https://www.dropbox.com/s/t1wmiyszxsjt6tb/survey.csv?dl=1"> data_02_csv </a> 
+      <!-- Go to dropbox and create a link for the file. Then change the last number in the link from 0 to 1. Then the file is directly downloaded when clicking on it -->
+      <a href="https://www.dropbox.com/s/t1wmiyszxsjt6tb/survey.csv?dl=1"> survey.csv </a> 
       <!--<a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise02_solution.pdf"> ex_02_solution</a> -->
      </td>  
     <!--  Literature  -->
