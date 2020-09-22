@@ -49,10 +49,10 @@ Otherwise the rendering is broken
   <tr>
       <th style="text-align: left;" width="%5">Week</th>
       <th style="text-align: left;" width="%5">Date</th>
-      <th style="text-align: left;" width="%65">Topics</th>
-      <th style="text-align: left;" width="%65">Lectures notes</th>
+      <th style="text-align: left;" width="%30">Topics</th>
+      <th style="text-align: left;" width="%20">Lectures notes</th>
       <th style="text-align: left;" width="%20">Exercises</th>
-      <th style="text-align: left;" width="%15">Literature</th>
+      <th style="text-align: left;" width="%20">Literature</th>
   </tr>
   <!--  ------------------------------------- -->
   <!--  week 1 -->
