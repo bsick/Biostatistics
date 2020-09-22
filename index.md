@@ -77,12 +77,12 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01.pdf"> exercise_01 </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01_solution.pdf"> exercise_01_solution </a>
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01.pdf"> ex_01 </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01_solution.pdf"> ex_01_sol </a>
      </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_chapter01</a>
+      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_Ch01</a>
     </td>  
   </tr>
   <!--  ------------------------------------- -->
@@ -109,7 +109,7 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_02.pdf"> exercise_02 </a> | 
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_02.pdf"> ex_02 </a> | 
       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/data/survey.csv"> data_02_html </a> -->
       <!-- Go to dropbox and create a link for the file. Then change the last number in the link from 0 to 1. Then the file is directly downloaded when clicking on it -->
       <a href="https://www.dropbox.com/s/t1wmiyszxsjt6tb/survey.csv?dl=1"> survey.csv </a> 
@@ -117,7 +117,7 @@ Otherwise the rendering is broken
      </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_chapter02</a>
+      <a href="https://github.com/bsick/Biostatistics/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_Ch02</a>
     </td>  
   </tr>
   <!--  ------------------------------------- -->
