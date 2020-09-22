@@ -77,8 +77,8 @@ Otherwise the rendering is broken
      </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01.pdf"> exercise_01 </a>  
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01_solution.pdf"> ex_01_solution_solution </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01.pdf"> exercise_01 </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_01_solution.pdf"> exercise_01_solution </a>
      </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
@@ -99,24 +99,24 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Descriptive statistics for continuous data -->
+      Descriptive statistics for continuous data
     </td> 
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_02_before"> slides_02_before </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex2-reading-plots.pdf"> ex_in_class_02</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_02_before"> slides_02_before </a> |
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex2-reading-plots.pdf"> ex_in_class_02</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex2-reading-plots-solution.pdf"> ex_in_class_02_solution</a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise02.pdf"> ex_02 </a> | 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/data/survey.csv"> data_02_html</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_02.pdf"> exercise_02 </a> | 
+      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/data/survey.csv"> data_02_html</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/survey.csv"> data_02_csv </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise02_solution.pdf"> ex_02_solution</a> -->
      </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_chapter02</a>  -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_chapter02</a>
     </td>  
   </tr>
   <!--  ------------------------------------- -->
