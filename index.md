@@ -113,8 +113,8 @@ Otherwise the rendering is broken
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_02.pdf"> ex_02 </a> | 
       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/data/survey.csv"> data_02_html </a> -->
       <!-- Go to dropbox and create a link for the file. Then change the last number in the link from 0 to 1. Then the file is directly downloaded when clicking on it -->
-      <a href="https://www.dropbox.com/s/t1wmiyszxsjt6tb/survey.csv?dl=1"> survey.csv </a> 
-      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise02_solution.pdf"> ex_02_solution</a> -->
+      <a href="https://www.dropbox.com/s/t1wmiyszxsjt6tb/survey.csv?dl=1"> survey.csv </a> | 
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_02_solution.pdf"> ex_02_sol</a>
      </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
