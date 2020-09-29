@@ -139,9 +139,9 @@ Otherwise the rendering is broken
      </td> 
      <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_03_plan.pdf"> slides_03_before</a> | 
-     <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex3-model-choice-CI.pdf"> ex_in_class_03</a> <!-- |
-       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex3-model-choice-CI-solution.pdf"> ex_in_class_03_solution</a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_03_presented.pdf"> slides_03_presented</a> | 
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex3-model-choice-CI.pdf"> ex_in_class_03</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex3-model-choice-CI-solution.pdf"> ex_in_class_03_sol </a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
