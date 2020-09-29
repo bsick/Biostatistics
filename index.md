@@ -145,10 +145,8 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise03.pdf"> ex_03 </a> | 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/data/pet_counts.csv"> data_03_html </a> |
-      <a href="https://www.dropbox.com/s/kqvqx8d12vv20va/pet_counts.csv?dl=1"> data_03_csv </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise03_solution.pdf"> ex_03_solution </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_03.pdf"> ex_03 </a> 
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise03_solution.pdf"> ex_03_solution </a> -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
