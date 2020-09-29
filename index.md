@@ -141,7 +141,7 @@ Otherwise the rendering is broken
   	<td style="text-align: left;" valign="top"> 
       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_03_presented.pdf"> slides_03_presented</a> |
       <a href="https://ethz.zoom.us/rec/play/uqVm-xXgU9t9rtooch-_6Ief4a1VdPniLZ9El7uc0lEonfFzAVomSykftW88BxSPHbKwgo69yFsd1s93.ii8gYD-17YmvRhGh?continueMode=true&_x_zm_rtaid=VLP89g5DQr65mvo8L_lI2A.1601384050907.51c838ebd976e10c6179cfdaf68085a9&_x_zm_rhtaid=772"> video_part1</a> |
-      <a href="https://www.dropbox.com/sh/coqiokz68cqy3a5/AADVuL5a9lJhIvPdhScRJH4wa?dl=0"> video_part2</a> |
+      <a href="https://www.dropbox.com/sh/coqiokz68cqy3a5/AADVuL5a9lJhIvPdhScRJH4wa?dl=1"> video_part2</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex3-model-choice-CI.pdf"> ex_in_class_03</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex3-model-choice-CI-solution.pdf"> ex_in_class_03_sol </a>
     </td>  
