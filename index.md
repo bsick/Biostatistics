@@ -173,9 +173,9 @@ Otherwise the rendering is broken
     </td> 
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_04_plan.pdf"> slides_04_before </a> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex4-testing-p-value.pdf"> ex_in_class_04</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex4-testing-p-value-solution.pdf"> ex_in_class_04_solution</a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_04_plan.pdf"> slides_04_before </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex04.pdf"> ex_in_class_04</a> |
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex04-solution.pdf"> ex_in_class_04_solution</a> -->
     </td> 
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
