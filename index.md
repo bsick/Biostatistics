@@ -176,7 +176,7 @@ Otherwise the rendering is broken
       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_04_plan.pdf"> slides_04_before </a> |
       <a href="https://ethz.zoom.us/rec/share/S6MR5JuJjybOfTNAmUCqoxE0gkxSzDlVtGe6KRKhDiLscaf7bsKVQkUITTiqSi_F.X0S5cJxdOWDbcjPG "> video </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex04.pdf"> ex_in_class_04</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex04-solution.pdf"> ex_in_class_04_solution </a> 
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex04-solution.pdf"> ex_in_class_04_sol </a> 
     </td> 
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
