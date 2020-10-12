@@ -18,7 +18,7 @@ For questions and communication, please use Discord ([https://discord.com/](http
 
 The course is tailored for master students of medical physics. However, interested master students from other programs and PhD students can attend and take the exam as well. 
 
-Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam.
+Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam. 
 
 **Dates:**
 <p> Start/End date: 15.09.2020 - 15.12.2020 </p>
@@ -203,18 +203,18 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Wilcoxon test, sample size calcualtion, multiple testing -->      
+      Binomial test, sample size calcualtion, multiple testing      
     </td> 
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_05_presented.pdf">slides_05_presented</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_05.pdf">slides_05</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution.pdf"> ex_in_class_05</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution-solution.pdf"> ex_in_class_05_solution</a> -->
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution-solution.pdf"> --> ex_in_class_05_solution</a> 
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise05.pdf"> ex_05 </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise05_solution.pdf"> ex_05_solution </a> -->
+       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_05.pdf"> ex_05 </a> |
+      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise05_solution.pdf"> ex_05_solution </a> -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
