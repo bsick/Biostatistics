@@ -214,8 +214,8 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_05.pdf"> ex_05 </a> 
-      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise05_solution.pdf"> ex_05_solution </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_05.pdf"> ex_05 </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_05_solution.pdf"> ex_05_sol </a> 
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
