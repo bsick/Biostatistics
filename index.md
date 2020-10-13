@@ -181,8 +181,8 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_04.pdf"> ex_04 </a> | 
-      <a href="https://www.dropbox.com/s/rapl91igu92mqh4/training.txt?dl=1"> training.txt </a> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise04_solution.pdf"> ex_04_solution </a> -->
+      <a href="https://www.dropbox.com/s/rapl91igu92mqh4/training.txt?dl=1"> training.txt </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_04_solution.pdf"> ex_04_sol </a> 
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
@@ -207,18 +207,18 @@ Otherwise the rendering is broken
     </td> 
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_05.pdf">slides_05</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution.pdf"> ex_in_class_05</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_05.pdf"> slides_05</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution.pdf"> ex_in_class_05</a> 
       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution-solution.pdf"> --> ex_in_class_05_solution</a> 
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_05.pdf"> ex_05 </a> |
+       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_05.pdf"> ex_05 </a> 
       <!--<a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise05_solution.pdf"> ex_05_solution </a> -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
-      <!-- see last week -->
+      s. last week
     </td>  
   </tr>
   <!--  ------------------------------------- -->
