@@ -209,7 +209,7 @@ Otherwise the rendering is broken
   	<td style="text-align: left;" valign="top"> 
       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_05.pdf"> slides_05</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution.pdf"> ex_in_class_05</a> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution-solution.pdf"> --> ex_in_class_05_solution</a> 
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex5-p-value-distribution-solution.pdf"> ex_in_class_05_solution</a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
