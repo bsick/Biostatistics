@@ -16,7 +16,7 @@ For questions and communication, please use Discord ([https://discord.com/](http
 
 **Target group:** 
 
-The course is tailored for master students of medical physics. However, interested master students from other programs and PhD students can attend and take the exam as well. 
+The course is tailored for master students of medical physics. However, interested master students from other programs and PhD students can attend and take the exam as well.  
 
 Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam. 
 
@@ -236,13 +236,13 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Relative Risk, Odds Ratio, study types, independence test for a categorical variables: Chi-square, Fischer exact test -->
+      Relative Risk, Odds Ratio, study types, independence test for a categorical variables: Chi-square, Fischer exact test 
     </td>  
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_06_plan.pdf">slides_06_plan</a> |
+       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_06_plan.pdf">slides_06_plan</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR.pdf"> ex_in_class_06</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR-solution.pdf"> ex_in_class_06_solution</a> -->
+      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR-solution.pdf"> ex_in_class_06_solution</a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
