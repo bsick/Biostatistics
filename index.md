@@ -240,16 +240,15 @@ Otherwise the rendering is broken
     </td>  
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_06_plan.pdf">slides_06_plan</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR.pdf"> ex_in_class_06</a> |
+       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_06_plan.pdf"> slides_06_plan </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR.pdf"> ex_in_class_06 </a> |
       <!--<a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR-solution.pdf"> ex_in_class_06_solution</a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise06.pdf"> ex_06 </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/data/coffee.csv"> data_06_html </a> |
-      <a href="https://www.dropbox.com/s/sud5v2iexaewh5n/coffee.csv?dl=1"> data_06_csv </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise06_solution.pdf"> ex_06_solution </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise06.pdf"> ex_06 </a> |
+      <a href="https://www.dropbox.com/s/70tpphnvzdmhphf/coffee.csv?dl=1"> coffee.csv </a> 
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise06_solution.pdf"> ex_06_solution </a> -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
