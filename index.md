@@ -25,7 +25,7 @@ Please note that **for the current WS 2020 the course is already fully booked**,
 <p> Lectures: Tuesdays, 10:00 - 11:45 (VIA ZOOM) </p>
 <p> Exercises: Tuesdays, 17:00 - 17:45 (Discord) </p>
 <p> Exam: Tuesday, 8.12.2020, 10:00 </p>
-
+ 
 **Exam:**
 
 The exam will be a **60 minute MC quiz**. There will be the **same exam for all students**. PhD student will have no extra/oral exam. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if they obtain the credits by passing the standard written MC exam.
@@ -241,14 +241,15 @@ Otherwise the rendering is broken
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
        <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_06_plan.pdf"> slides_06_plan </a> |
+      <a href="https://ethz.zoom.us/rec/share/WUpgcgHexitcuSq3LKyC7mQpV19JFWZqSEm3AHV_wJr0KBVUGyiQ5YYGextM-LuT.a8QzYVaFT4ARs11S"> video </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR.pdf"> ex_in_class_06 </a> |
-      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR-solution.pdf"> ex_in_class_06_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex6-study-types-RR-solution.pdf"> ex_in_class_06_sol </a> 
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_06.pdf"> ex_06 </a> |
       <a href="https://www.dropbox.com/s/70tpphnvzdmhphf/coffee.csv?dl=1"> coffee.csv </a> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_06_solution.pdf"> ex_06_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_06_solution.pdf"> ex_06_sol </a>
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
