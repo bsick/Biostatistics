@@ -270,16 +270,16 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Diagnostic tests, Performance measures: Sensitivity, Specificity, Positive Predictive value -->
+      Diagnostic tests, Performance measures: Sensitivity, Specificity, Positive Predictive value 
     </td>                                 
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_07_plan.pdf">slides_07_plan </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex7-ROC-PPV.pdf"> ex_in_class_07 </a> |
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex7-ROC-PPV-solution.pdf"> ex_in_class_07_sol </a> -->
+       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_07.pdf">slides_07 </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex07_ROC.pdf"> ex_in_class_07 </a> |
+     <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex07_ROC-solution.pdf"> ex_in_class_07_sol </a> -->
     </td>  
     <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
+    <td style="text-align: left;" valign="top"> 
       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07.pdf"> ex_07 </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07_solution.pdf"> ex_07_sol </a> -->
     </td>  
