@@ -280,8 +280,8 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07.pdf"> ex_07 </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07_solution.pdf"> ex_07_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07.pdf"> ex_07 </a> 
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07_solution.pdf"> ex_07_sol </a> -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
