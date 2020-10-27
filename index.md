@@ -18,7 +18,7 @@ For questions and communication, please use Discord ([https://discord.com/](http
 
 The course is tailored for master students of medical physics. However, interested master students from other programs and PhD students can attend and take the exam as well.  
 
-Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam. 
+Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam.  
 
 **Dates:**
 <p> Start/End date: 15.09.2020 - 15.12.2020 </p>
@@ -275,8 +275,9 @@ Otherwise the rendering is broken
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
        <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_07.pdf">slides_07 </a> |
+    <a href="https://ethz.zoom.us/rec/share/s3QI2n7jR3fkKDDtGvXc1gd7976b8nwYElOy7qsRHK-gs9HDN6ZmszEkdwH-OiFA.NsqWrGKF_si1toE-"> video </a> | 
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex07_ROC.pdf"> ex_in_class_07 </a> |
-     <!-- <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex07_ROC-solution.pdf"> ex_in_class_07_sol </a> -->
+     <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/in_class_exercises/in-class-ex07_ROC-solution.pdf"> ex_in_class_07_sol </a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top"> 
