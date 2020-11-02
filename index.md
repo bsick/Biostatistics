@@ -27,7 +27,7 @@ Please note that **for the current WS 2020 the course is already fully booked**,
 <p> Exam: Tuesday, 8.12.2020, 10:00 </p>
  
 **Exam:**
-
+ 
 The exam will be a **60 minute MC quiz**. There will be the **same exam for all students**. PhD student will have no extra/oral exam. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if they obtain the credits by passing the standard written MC exam.
 
 More information about the exam will follow during the semester.
@@ -303,13 +303,13 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Simple linear regression -->
+      Correlation measures and introduction to linear regression models
     </td>  
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_08.pdf"> slides_08 </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex8-simple-linReg.pdf"> ex_in_class_08</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex8-simple-linReg-solution.pdf"> ex_in_class_08_sol </a> -->
+       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_08_plan.pdf"> slides_08_plan </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex08_corr_linReg.pdf"> ex_in_class_08</a> |
+      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex8-simple-linReg-solution.pdf"> ex_in_class_08_sol </a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
