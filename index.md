@@ -282,7 +282,7 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top"> 
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07.pdf"> ex_07 </a> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07_solution.pdf"> ex_07_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_07_solution.pdf"> ex_07_sol </a> 
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
@@ -307,18 +307,19 @@ Otherwise the rendering is broken
     </td>  
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_08_plan.pdf"> slides_08_plan </a> |
+       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_08_presented.pdf"> slides_08_presented </a> |
+    <a href="https://ethz.zoom.us/rec/share/et-3ybUK_eVAlNPW_AC4pc_20hqnelR39G1RKkTWn6yg2iwajFYCqz-8mj2-fIZS.vqJssR3g_VUKE5YR"> video </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex08_corr_linReg.pdf"> ex_in_class_08</a> |
-      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex8-simple-linReg-solution.pdf"> ex_in_class_08_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex8-simple-linReg-solution.pdf"> ex_in_class_08_sol </a>
     </td>  
-    <!--  Exercises  -->
+    <!--  Exercises  --> 
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_08.pdf"> ex_08 </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_08_solution.pdf"> ex_08_sol </a> -->
+       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_08.pdf"> ex_08 </a> |
+     <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_08_solution.pdf"> ex_08_sol </a> -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/literature/HSAUS3_ch6_linear_regression.pdf"> HSAUR3_Ch06 </a> -->
+       <a href="https://github.com/bsick/Biostatistics/tree/master/literature/HSAUS3_ch6_linear_regression.pdf"> HSAUR3_Ch06 </a> 
     </td>
   </tr>  
   <!--  ------------------------------------- -->
