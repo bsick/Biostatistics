@@ -21,7 +21,7 @@ The course is tailored for master students of medical physics. However, interest
 Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam.  
 
 **Dates:**
-<p> Start/End date: 15.09.2020 - 15.12.2020 </p>
+<p> Start/End date: 15.09.2020 - 15.12.2020 </p> 
 <p> Lectures: Tuesdays, 10:00 - 11:45 (VIA ZOOM) </p>
 <p> Exercises: Tuesdays, 17:00 - 17:45 (Discord) </p>
 <p> Exam: Tuesday, 8.12.2020, 10:00 </p>
@@ -310,12 +310,12 @@ Otherwise the rendering is broken
        <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_08_presented.pdf"> slides_08_presented </a> |
     <a href="https://ethz.zoom.us/rec/share/et-3ybUK_eVAlNPW_AC4pc_20hqnelR39G1RKkTWn6yg2iwajFYCqz-8mj2-fIZS.vqJssR3g_VUKE5YR"> video </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex08_corr_linReg.pdf"> ex_in_class_08</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex8-simple-linReg-solution.pdf"> ex_in_class_08_sol </a>
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex08_corr_linReg_solution.pdf"> ex_in_class_08_sol </a>
     </td>  
     <!--  Exercises  --> 
     <td style="text-align: left;" valign="top">
-       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_08.pdf"> ex_08 </a> |
-     <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_08_solution.pdf"> ex_08_sol </a> -->
+       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise08.pdf"> ex_08 </a> |
+    <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_08_solution.pdf"> ex_08_sol </a>  -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
