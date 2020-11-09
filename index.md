@@ -20,7 +20,7 @@ The course is tailored for master students of medical physics. However, interest
 
 Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam.  
 
-**Dates:**
+**Dates:** 
 <p> Start/End date: 15.09.2020 - 15.12.2020 </p> 
 <p> Lectures: Tuesdays, 10:00 - 11:45 (VIA ZOOM) </p>
 <p> Exercises: Tuesdays, 17:00 - 17:45 (Discord) </p>
@@ -336,13 +336,13 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Tests and CI in lin regression, multiple linear regression -->
+     Tests and CI in lin regression, multiple linear regression
     </td>  
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_09_presented.pdf"> slides_09_presented</a> |
+       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_09.pdf"> slides_09</a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex9-linReg.pdf"> ex_in_class_09</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex9-linReg-solution.pdf"> ex_in_class_09_sol </a> -->
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex9-linReg-solution.pdf"> ex_in_class_09_sol </a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
@@ -353,7 +353,7 @@ Otherwise the rendering is broken
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
-      <!-- s. last week -->
+       s. last week 
     </td>  
   </tr>
   <!--  ------------------------------------- -->
