@@ -315,7 +315,7 @@ Otherwise the rendering is broken
     <!--  Exercises  --> 
     <td style="text-align: left;" valign="top">
        <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise08.pdf"> ex_08 </a> |
-    <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_08_solution.pdf"> ex_08_sol </a>  -->
+       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise08_solution.pdf"> ex_08_sol </a>
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
