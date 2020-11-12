@@ -341,7 +341,7 @@ Otherwise the rendering is broken
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
        <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_09.pdf"> slides_09</a> |
-       <a href="https://ethz.zoom.us/rec/share/et-3ybUK_eVAlNPW_AC4pc_20hqnelR39G1RKkTWn6yg2iwajFYCqz-8mj2-fIZS.vqJssR3g_VUKE5YR"> video </a> |
+       <a href="https://ethz.zoom.us/rec/share/-MJg726umrySBm9uQNo3NVvqCu7Fk0h9_54kTL9D0tdBFWr7ihape6bafnAZut6g.GO9QwTHH2mA-0xPF"> video </a> |
        <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex9-linReg.pdf"> ex_in_class_09</a> |
        <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex9-linReg-solution.pdf"> ex_in_class_09_sol </a>
     </td>  
