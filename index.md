@@ -36,7 +36,7 @@ More information about the exam will follow during the semester.
 <!-- To get a feeling for the type of exam you can check out a old exam, but please be aware that the covered topics did change since then and therefore you can not expect to get questions on exactly the same topics. All topics discussed in the lectures and the exercises can be adressed in the exam inclusively all discussed aspects of linear models. Here you find a <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-update.pdf">test-exam-updated</a> and the <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/test-exam-solutions-update.pdf">test-exam-solution-updated</a>.  -->
   
   
-**Learning Material:**
+**Learning Material:** 
 
 <!--  
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -370,13 +370,13 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
     <td style="text-align: left;" valign="top"> 
-      <!-- Correlation, OLS estimates for coefficients in linear regression, model selection with warnings, Anova -->
+      Logistic regression
     </td>       
     <!-- Lectures -->
     <td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_10_presented.pdf">slides_10_presented</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex10-correlation.pdf"> ex_in_class_10</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex10-correlation-solution.pdf"> ex_in_class_10_sol </a> -->
+       <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_10.pdf">slides_10</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class_ex10.pdf"> in-class_ex10</a> |
+      <!--<a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex10-correlation-solution.pdf"> ex_in_class_10_sol </a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
