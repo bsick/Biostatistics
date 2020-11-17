@@ -380,10 +380,9 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10.pdf"> ex_10 </a> |
-      <a href="https://www.dropbox.com/s/0idkyx2sv5zss2q/abuse.csv?dl=1"> abuse.csv </a> |
-      <a href="https://www.dropbox.com/s/kudy1l0kl0njs9z/mortality.csv?dl=1"> mortality.csv </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10_solution.pdf"> ex_10_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10.pdf"> ex_10 </a> |
+      <a href="https://www.dropbox.com/s/juu5v84rc53wzgw/coffee.csv?dl=1"> coffee.csv </a> 
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10_solution.pdf"> ex_10_sol </a> -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
