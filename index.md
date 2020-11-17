@@ -348,8 +348,8 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_09.pdf"> ex_09 </a> |
-      <a href="https://www.dropbox.com/s/ft2ch59hx1sekqv/catheter.rda?dl=1"> catheter.rda </a>
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_09_solution.pdf"> ex_09_sol </a> -->
+      <a href="https://www.dropbox.com/s/ft2ch59hx1sekqv/catheter.rda?dl=1"> catheter.rda </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_09_solution.pdf"> ex_09_sol </a>
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
