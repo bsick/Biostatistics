@@ -377,7 +377,7 @@ Otherwise the rendering is broken
        <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_10.pdf">slides_10</a> |
        <a href="https://ethz.zoom.us/rec/share/w73Q2tvnes-E5SIDhE0nHcqxg-Nb2PCwDVuW3VhuYKTWxcoCf2GD62-Pe_OGfj4.hYBp1mA2BKUlVwid "> video </a> |
        <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class_ex10.pdf"> in-class_ex10</a> |
-       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex10-correlation-solution.pdf"> ex_in_class_10_sol </a>
+       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class_ex10_solution.pdf"> ex_in_class_10_sol </a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
