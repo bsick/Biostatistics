@@ -383,7 +383,7 @@ Otherwise the rendering is broken
     <td style="text-align: left;" valign="top">
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10.pdf"> ex_10 </a> |
       <a href="https://www.dropbox.com/s/juu5v84rc53wzgw/coffee.csv?dl=1"> coffee.csv </a> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10_solution.pdf"> ex_10_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10_solution.pdf"> ex_10_sol </a>
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
@@ -404,7 +404,7 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
     <td style="text-align: left;" valign="top"> 
-      <!-- Regression models for prediction, Coefficient shrinkage via Ridge Regression or Lasso, Regression to the mean -->
+      Random Forest
     </td> 
     <!-- Lectures -->
     <td style="text-align: left;" valign="top"> 
@@ -414,8 +414,10 @@ Otherwise the rendering is broken
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_11.pdf"> ex_11 </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_11_solution.pdf"> ex_11_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_11.pdf"> ex_11 </a> |
+      <a href="https://www.dropbox.com/s/w7t3hrx7ywq7oi2/test.fgl.RData?dl=1"> test.fgl.RData </a> |
+      <a href="https://www.dropbox.com/s/65cr5l9pa8htjly/train.fgl.RData?dl=1"> train.fgl.RData </a> 
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_11_solution.pdf"> ex_11_sol </a> -->
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
