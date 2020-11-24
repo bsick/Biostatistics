@@ -408,9 +408,10 @@ Otherwise the rendering is broken
     </td> 
     <!-- Lectures -->
     <td style="text-align: left;" valign="top"> 
-     <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_11.pdf"> slides_11</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_11.pdf"> slides_11</a> |
+      <a href="https://ethz.zoom.us/rec/share/0oygWeqZ05IxxtWGPvbh5ay0jRL8FpXi_BlD2PFD3BOIdbehlS_9kj2B7CWwHQ.tf866xgBA9BFMrUY"> video </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week-11.pdf"> ex_in_class_11</a> |
-       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week-11-solution.pdf"> ex_in_class_11_sol </a> -->
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week-11-solution.pdf"> ex_in_class_11_sol </a>
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
