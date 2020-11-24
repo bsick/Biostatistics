@@ -404,7 +404,7 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
     <td style="text-align: left;" valign="top"> 
-      Random Forest
+      Tree Models, Random Forest
     </td> 
     <!-- Lectures -->
     <td style="text-align: left;" valign="top"> 
@@ -439,7 +439,7 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Wrapping up regression, ANOVA-->
+      Q&A, Test Moodle Exam
     </td>  
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
@@ -471,7 +471,7 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Exam, 10-12am, HG E 3  -->
+       Exam via Moodle 
     </td>  
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
