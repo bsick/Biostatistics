@@ -20,7 +20,7 @@ The course is tailored for master students of medical physics. However, interest
 
 Please note that **for the current WS 2020 the course is already fully booked**, and it is not possible to book the course for students outside the target group anymore. Only registered students are allowed to participate in the exercises and to take the exam.  
 
-**Dates:** 
+**Dates:**  
 <p> Start/End date: 15.09.2020 - 15.12.2020 </p> 
 <p> Lectures: Tuesdays, 10:00 - 11:45 (VIA ZOOM) </p>
 <p> Exercises: Tuesdays, 17:00 - 17:45 (Discord) </p>
@@ -408,9 +408,9 @@ Otherwise the rendering is broken
     </td> 
     <!-- Lectures -->
     <td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_11_presented.pdf"> slides_11_presented</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex11-prediction-models.pdf"> ex_in_class_11</a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex11-prediction-models-solution.pdf"> ex_in_class_11_sol </a> -->
+     <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_11.pdf"> slides_11</a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week-11.pdf"> ex_in_class_11</a> |
+       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-exercise-week-11-solution.pdf"> ex_in_class_11_sol </a> -->
     </td>  
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
