@@ -31,7 +31,7 @@ Please note that **for the current WS 2020 the course is already fully booked**,
  
 The exam will be a **60 minute MC quiz**. There will be the **same exam for all students**. PhD student will have no extra/oral exam. PhD students aiming to earn ECTS with this course need to clarify with the head or direct advisor of their PhD program if they obtain the credits by passing the standard written MC exam.
 
-The exam will happen via Moodle and will be open book. This means that you are allowed to use all the material from the lectures, exercises and additional books and notes. Browsing in the internet during the exam is not allowed and will result in a failing grade. In addition, it is not allowed to contact any other person during the exam, the mobile phone must be turned off. More information on the organization of the test exam and the exam is available in the following document: <a href="https://github.com/bsick/Biostatistics/tree/master/formalia_public/Info_exams.docx"> Info_exams.docx </a>
+The exam will happen via Moodle and will be open book. This means that you are allowed to use all the material from the lectures, exercises and additional books and notes. Browsing in the internet during the exam is not allowed and will result in a failing grade. In addition, it is not allowed to contact any other person during the exam, the mobile phone must be turned off. More information on the organization of the test exam and the exam is available in the following document: <a href="https://github.com/bsick/Biostatistics/tree/master/formalia_public/Info_exams.pdf"> info_exams </a>
 
 <!--The Date will probably be mid/end of december (tba) . It is not open book, but you are allowed to use a 2 A4 summary (written on both sides, all together 4 pages). You will not be asked for proofs or R-Code, but you need to understand the concepts and be able to interpret presented analysis results or R-outputs. -->
 
@@ -384,7 +384,7 @@ Otherwise the rendering is broken
     <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10.pdf"> ex_10 </a> |
-      <a href="https://www.dropbox.com/s/juu5v84rc53wzgw/coffee.csv?dl=1"> coffee.csv </a> 
+      <a href="https://www.dropbox.com/s/juu5v84rc53wzgw/coffee.csv?dl=1"> coffee.csv </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_10_solution.pdf"> ex_10_sol </a>
     </td>  
     <!--  Literature  -->
@@ -419,8 +419,8 @@ Otherwise the rendering is broken
     <td style="text-align: left;" valign="top">
       <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_11.pdf"> ex_11 </a> |
       <a href="https://www.dropbox.com/s/w7t3hrx7ywq7oi2/test.fgl.RData?dl=1"> test.fgl.RData </a> |
-      <a href="https://www.dropbox.com/s/65cr5l9pa8htjly/train.fgl.RData?dl=1"> train.fgl.RData </a> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_11_solution.pdf"> ex_11_sol </a> -->
+      <a href="https://www.dropbox.com/s/65cr5l9pa8htjly/train.fgl.RData?dl=1"> train.fgl.RData </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/exercises/exercise_11_solution.pdf"> ex_11_sol </a>
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
