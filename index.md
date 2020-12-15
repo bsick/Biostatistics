@@ -511,9 +511,9 @@ Otherwise the rendering is broken
       <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex14-trees.pdf"> ex_in_class_14 </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex14-trees-solution.pdf"> ex_in_class_14_sol </a> --> 
     </td>  
-    <!--  Exercises  -->
+   <!--  Exercises  -->
     <td style="text-align: left;" valign="top">
-      <!-- - -->
+No exercises
     </td>  
     <!--  Literature  -->
     <td style="text-align: left;" valign="top">
