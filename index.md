@@ -503,12 +503,12 @@ Otherwise the rendering is broken
     </td>  
     <!-- Topics -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- Tree models for regression and classification, Random Forest --> 
+      Causality 
     </td>  
     <!-- Lectures -->
   	<td style="text-align: left;" valign="top"> 
-      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_14_presented.pdf"> slides_14_presented </a> |
-      <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex14-trees.pdf"> ex_in_class_14 </a> |
+      <a href="https://github.com/bsick/Biostatistics/tree/master/slides/BS_slides_14.pdf"> slides_14 </a> |
+      <!-- <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex14-trees.pdf"> ex_in_class_14 </a> |
       <a href="https://github.com/bsick/Biostatistics/tree/master/in_class_exercises/in-class-ex14-trees-solution.pdf"> ex_in_class_14_sol </a> --> 
     </td>  
     <!--  Exercises  -->
